@@ -200,6 +200,27 @@ td strong{color:var(--navy)}
 .comp{font-weight:600;color:var(--accent);white-space:nowrap}
 .employers{color:var(--muted);font-size:14px}
 .disclaimer{font-size:13px;color:var(--muted);margin-top:14px;max-width:860px}
+.market-cell{display:flex;align-items:center;gap:12px}
+.flag-thumb{width:28px;height:18px;object-fit:cover;border-radius:2px;border:1px solid rgba(0,0,0,.1);box-shadow:0 1px 3px rgba(0,0,0,.12);flex-shrink:0}
+.globe-thumb{width:28px;height:18px;display:inline-flex;align-items:center;justify-content:center;background:var(--blue-light);color:var(--blue);border-radius:2px;flex-shrink:0}
+
+/* Mobile Career Cards */
+.career-cards{display:none}
+.career-card{background:#fff;border:1px solid var(--line);border-radius:10px;padding:22px;box-shadow:0 4px 16px rgba(16,37,56,.04);display:flex;flex-direction:column;gap:13px}
+.career-card-header{display:flex;align-items:center;gap:13px}
+.career-card-flag{width:36px;height:23px;object-fit:cover;border-radius:3px;border:1px solid rgba(0,0,0,.1);box-shadow:0 1px 4px rgba(0,0,0,.12);flex-shrink:0}
+.career-card-globe{width:36px;height:23px;display:flex;align-items:center;justify-content:center;background:var(--blue-light);color:var(--blue);border-radius:3px;flex-shrink:0}
+.career-card-title-wrap{flex:1;min-width:0}
+.career-card-country{font-size:18px;color:var(--navy);margin-bottom:2px;line-height:1.25;font-weight:600}
+.career-card-region{display:block;font-size:13px;color:var(--muted);line-height:1.35}
+.career-card-comp-badge{background:#fdf5ee;border:1px solid #f4d3b8;border-radius:6px;padding:9px 12px;display:flex;flex-direction:column;gap:2px}
+.career-card-comp-badge .comp-label{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--accent)}
+.career-card-comp-badge strong{font-size:14px;color:#924c1e}
+.career-card-opp{font-size:14.5px;color:var(--ink);line-height:1.55;margin:0}
+.career-card-footer{padding-top:11px;border-top:1px solid var(--line);font-size:13.5px;line-height:1.5}
+.career-card-employers-label{display:block;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin-bottom:3px}
+.career-card-employers{color:var(--navy);font-weight:500}
+
 .value-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:22px}
 .value{background:#fff;border:1px solid var(--line);border-radius:10px;padding:28px}
 .value h3{font-size:19px;margin-bottom:8px}
@@ -222,6 +243,7 @@ footer{background:var(--navy-dark);color:#a9b8c5;padding:42px 0;font-size:14px;b
 .footer-copyright{color:#6c8295;font-size:12.5px;margin-top:6px}
 
 @media(max-width:960px){.hero-grid,.curriculum-grid{grid-template-columns:1fr}.pillars,.capstone-grid,.value-grid{grid-template-columns:1fr}.main-nav{display:none}.section{padding:64px 0}}
+@media(max-width:820px){.table-wrap{display:none}.career-cards{display:grid;grid-template-columns:1fr;gap:16px}}
 @media(max-width:768px){.footer-inner{flex-direction:column;align-items:flex-start;gap:20px}.footer-meta{text-align:left}}
 @media(max-width:620px){.form-grid{grid-template-columns:1fr}.enquiry{padding:24px}.hero{padding:56px 0}}
 </style>
@@ -490,16 +512,186 @@ footer{background:var(--navy-dark);color:#a9b8c5;padding:42px 0;font-size:14px;b
       <table>
         <thead><tr><th>Market</th><th>Opportunity</th><th>Indicative compensation</th><th>Representative organisations</th></tr></thead>
         <tbody>
-          <tr><td><strong>United States</strong><span class="region">Seattle, Dallas, Denver, Austin</span></td><td>One of the largest markets for aviation software, airline technology, and aerospace product roles.</td><td class="comp">$107,000–$214,000 per year</td><td class="employers">Boeing, American Airlines, JetBlue, ForeFlight</td></tr>
-          <tr><td><strong>United Arab Emirates</strong><span class="region">Dubai and Abu Dhabi</span></td><td>A rapidly growing aviation technology market with technology-visa pathways for eligible professionals.</td><td class="comp">AED 15,000–30,000 per month, tax-free</td><td class="employers">Emirates Group, Etihad</td></tr>
-          <tr><td><strong>Qatar</strong><span class="region">Doha</span></td><td>Opportunities in digital booking, ancillary revenue, loyalty, and airline digital products.</td><td class="comp">Role-specific</td><td class="employers">Qatar Airways</td></tr>
-          <tr><td><strong>Germany</strong><span class="region">Hamburg and Munich</span></td><td>Strong aerospace and aviation-technology ecosystem, with EU Blue Card and long-term settlement pathways for eligible candidates.</td><td class="comp">€60,000–€120,000 per year</td><td class="employers">Airbus, Lufthansa Technik</td></tr>
-          <tr><td><strong>United Kingdom</strong><span class="region">London and regional hubs</span></td><td>An active aviation hiring market, with 646 aviation roles reported over a six-month period.</td><td class="comp">£47,000–£83,000</td><td class="employers">BAE Systems, Rolls-Royce, easyJet Labs</td></tr>
-          <tr><td><strong>Singapore</strong><span class="region">Singapore</span></td><td>Growing opportunities across airline technology, aerospace engineering, and aviation services.</td><td class="comp">SGD 82,000–146,000 per year</td><td class="employers">Boeing, Singapore Airlines ecosystem, ST Engineering</td></tr>
-          <tr><td><strong>India</strong><span class="region">Bengaluru, Delhi NCR, Mumbai</span></td><td>A large market for digital aviation, airline technology, cargo platforms, and travel-technology roles.</td><td class="comp">₹15 lakh–₹50 lakh per year</td><td class="employers">IndiGo Digital, Air India, IBS, Amadeus, SITA</td></tr>
-          <tr><td><strong>Other markets</strong><span class="region">Finland, Canada, South Korea</span></td><td>Emerging opportunities in sustainable aviation fuel, aerospace manufacturing, and simulation technology.</td><td class="comp">Market- and role-specific</td><td class="employers">Neste SAF, Bombardier, CAE</td></tr>
+          <tr><td><div class="market-cell"><img src="assets/flags/United_States_flag.png" alt="United States" class="flag-thumb" width="28" height="18"><div><strong>United States</strong><span class="region">Seattle, Dallas, Denver, Austin</span></div></div></td><td>One of the largest markets for aviation software, airline technology, and aerospace product roles.</td><td class="comp">$107,000–$214,000 per year</td><td class="employers">Boeing, American Airlines, JetBlue, ForeFlight</td></tr>
+          <tr><td><div class="market-cell"><img src="assets/flags/United_Arab_Emirates_flag.png" alt="United Arab Emirates" class="flag-thumb" width="28" height="18"><div><strong>United Arab Emirates</strong><span class="region">Dubai and Abu Dhabi</span></div></div></td><td>A rapidly growing aviation technology market with technology-visa pathways for eligible professionals.</td><td class="comp">AED 15,000–30,000 per month, tax-free</td><td class="employers">Emirates Group, Etihad</td></tr>
+          <tr><td><div class="market-cell"><img src="assets/flags/Qatar_flag.png" alt="Qatar" class="flag-thumb" width="28" height="18"><div><strong>Qatar</strong><span class="region">Doha</span></div></div></td><td>Opportunities in digital booking, ancillary revenue, loyalty, and airline digital products.</td><td class="comp">Role-specific</td><td class="employers">Qatar Airways</td></tr>
+          <tr><td><div class="market-cell"><img src="assets/flags/Germany_flag.png" alt="Germany" class="flag-thumb" width="28" height="18"><div><strong>Germany</strong><span class="region">Hamburg and Munich</span></div></div></td><td>Strong aerospace and aviation-technology ecosystem, with EU Blue Card and long-term settlement pathways for eligible candidates.</td><td class="comp">€60,000–€120,000 per year</td><td class="employers">Airbus, Lufthansa Technik</td></tr>
+          <tr><td><div class="market-cell"><img src="assets/flags/United_Kingdom_flag.png" alt="United Kingdom" class="flag-thumb" width="28" height="18"><div><strong>United Kingdom</strong><span class="region">London and regional hubs</span></div></div></td><td>An active aviation hiring market, with 646 aviation roles reported over a six-month period.</td><td class="comp">£47,000–£83,000</td><td class="employers">BAE Systems, Rolls-Royce, easyJet Labs</td></tr>
+          <tr><td><div class="market-cell"><img src="assets/flags/Singapore_flag.png" alt="Singapore" class="flag-thumb" width="28" height="18"><div><strong>Singapore</strong><span class="region">Singapore</span></div></div></td><td>Growing opportunities across airline technology, aerospace engineering, and aviation services.</td><td class="comp">SGD 82,000–146,000 per year</td><td class="employers">Boeing, Singapore Airlines ecosystem, ST Engineering</td></tr>
+          <tr><td><div class="market-cell"><img src="assets/flags/India_flag.png" alt="India" class="flag-thumb" width="28" height="18"><div><strong>India</strong><span class="region">Bengaluru, Delhi NCR, Mumbai</span></div></div></td><td>A large market for digital aviation, airline technology, cargo platforms, and travel-technology roles.</td><td class="comp">₹15 lakh–₹50 lakh per year</td><td class="employers">IndiGo Digital, Air India, IBS, Amadeus, SITA</td></tr>
+          <tr><td><div class="market-cell"><span class="globe-thumb" aria-hidden="true">🌐</span><div><strong>Other markets</strong><span class="region">Finland, Canada, South Korea</span></div></div></td><td>Emerging opportunities in sustainable aviation fuel, aerospace manufacturing, and simulation technology.</td><td class="comp">Market- and role-specific</td><td class="employers">Neste SAF, Bombardier, CAE</td></tr>
         </tbody>
       </table>
+    </div>
+
+    <div class="career-cards">
+      <article class="career-card">
+        <div class="career-card-header">
+          <img src="assets/flags/United_States_flag.png" alt="United States Flag" class="career-card-flag" width="36" height="23">
+          <div class="career-card-title-wrap">
+            <h3 class="career-card-country">United States</h3>
+            <span class="career-card-region">Seattle, Dallas, Denver, Austin</span>
+          </div>
+        </div>
+        <div class="career-card-comp-badge">
+          <span class="comp-label">Indicative Compensation</span>
+          <strong>$107,000–$214,000 per year</strong>
+        </div>
+        <div class="career-card-body">
+          <p class="career-card-opp">One of the largest markets for aviation software, airline technology, and aerospace product roles.</p>
+        </div>
+        <div class="career-card-footer">
+          <span class="career-card-employers-label">Representative Organisations:</span>
+          <span class="career-card-employers">Boeing, American Airlines, JetBlue, ForeFlight</span>
+        </div>
+      </article>
+
+      <article class="career-card">
+        <div class="career-card-header">
+          <img src="assets/flags/United_Arab_Emirates_flag.png" alt="UAE Flag" class="career-card-flag" width="36" height="23">
+          <div class="career-card-title-wrap">
+            <h3 class="career-card-country">United Arab Emirates</h3>
+            <span class="career-card-region">Dubai and Abu Dhabi</span>
+          </div>
+        </div>
+        <div class="career-card-comp-badge">
+          <span class="comp-label">Indicative Compensation</span>
+          <strong>AED 15,000–30,000 per month, tax-free</strong>
+        </div>
+        <div class="career-card-body">
+          <p class="career-card-opp">A rapidly growing aviation technology market with technology-visa pathways for eligible professionals.</p>
+        </div>
+        <div class="career-card-footer">
+          <span class="career-card-employers-label">Representative Organisations:</span>
+          <span class="career-card-employers">Emirates Group, Etihad</span>
+        </div>
+      </article>
+
+      <article class="career-card">
+        <div class="career-card-header">
+          <img src="assets/flags/Qatar_flag.png" alt="Qatar Flag" class="career-card-flag" width="36" height="23">
+          <div class="career-card-title-wrap">
+            <h3 class="career-card-country">Qatar</h3>
+            <span class="career-card-region">Doha</span>
+          </div>
+        </div>
+        <div class="career-card-comp-badge">
+          <span class="comp-label">Indicative Compensation</span>
+          <strong>Role-specific</strong>
+        </div>
+        <div class="career-card-body">
+          <p class="career-card-opp">Opportunities in digital booking, ancillary revenue, loyalty, and airline digital products.</p>
+        </div>
+        <div class="career-card-footer">
+          <span class="career-card-employers-label">Representative Organisations:</span>
+          <span class="career-card-employers">Qatar Airways</span>
+        </div>
+      </article>
+
+      <article class="career-card">
+        <div class="career-card-header">
+          <img src="assets/flags/Germany_flag.png" alt="Germany Flag" class="career-card-flag" width="36" height="23">
+          <div class="career-card-title-wrap">
+            <h3 class="career-card-country">Germany</h3>
+            <span class="career-card-region">Hamburg and Munich</span>
+          </div>
+        </div>
+        <div class="career-card-comp-badge">
+          <span class="comp-label">Indicative Compensation</span>
+          <strong>€60,000–€120,000 per year</strong>
+        </div>
+        <div class="career-card-body">
+          <p class="career-card-opp">Strong aerospace and aviation-technology ecosystem, with EU Blue Card and long-term settlement pathways for eligible candidates.</p>
+        </div>
+        <div class="career-card-footer">
+          <span class="career-card-employers-label">Representative Organisations:</span>
+          <span class="career-card-employers">Airbus, Lufthansa Technik</span>
+        </div>
+      </article>
+
+      <article class="career-card">
+        <div class="career-card-header">
+          <img src="assets/flags/United_Kingdom_flag.png" alt="United Kingdom Flag" class="career-card-flag" width="36" height="23">
+          <div class="career-card-title-wrap">
+            <h3 class="career-card-country">United Kingdom</h3>
+            <span class="career-card-region">London and regional hubs</span>
+          </div>
+        </div>
+        <div class="career-card-comp-badge">
+          <span class="comp-label">Indicative Compensation</span>
+          <strong>£47,000–£83,000</strong>
+        </div>
+        <div class="career-card-body">
+          <p class="career-card-opp">An active aviation hiring market, with 646 aviation roles reported over a six-month period.</p>
+        </div>
+        <div class="career-card-footer">
+          <span class="career-card-employers-label">Representative Organisations:</span>
+          <span class="career-card-employers">BAE Systems, Rolls-Royce, easyJet Labs</span>
+        </div>
+      </article>
+
+      <article class="career-card">
+        <div class="career-card-header">
+          <img src="assets/flags/Singapore_flag.png" alt="Singapore Flag" class="career-card-flag" width="36" height="23">
+          <div class="career-card-title-wrap">
+            <h3 class="career-card-country">Singapore</h3>
+            <span class="career-card-region">Singapore</span>
+          </div>
+        </div>
+        <div class="career-card-comp-badge">
+          <span class="comp-label">Indicative Compensation</span>
+          <strong>SGD 82,000–146,000 per year</strong>
+        </div>
+        <div class="career-card-body">
+          <p class="career-card-opp">Growing opportunities across airline technology, aerospace engineering, and aviation services.</p>
+        </div>
+        <div class="career-card-footer">
+          <span class="career-card-employers-label">Representative Organisations:</span>
+          <span class="career-card-employers">Boeing, Singapore Airlines ecosystem, ST Engineering</span>
+        </div>
+      </article>
+
+      <article class="career-card">
+        <div class="career-card-header">
+          <img src="assets/flags/India_flag.png" alt="India Flag" class="career-card-flag" width="36" height="23">
+          <div class="career-card-title-wrap">
+            <h3 class="career-card-country">India</h3>
+            <span class="career-card-region">Bengaluru, Delhi NCR, Mumbai</span>
+          </div>
+        </div>
+        <div class="career-card-comp-badge">
+          <span class="comp-label">Indicative Compensation</span>
+          <strong>₹15 lakh–₹50 lakh per year</strong>
+        </div>
+        <div class="career-card-body">
+          <p class="career-card-opp">A large market for digital aviation, airline technology, cargo platforms, and travel-technology roles.</p>
+        </div>
+        <div class="career-card-footer">
+          <span class="career-card-employers-label">Representative Organisations:</span>
+          <span class="career-card-employers">IndiGo Digital, Air India, IBS, Amadeus, SITA</span>
+        </div>
+      </article>
+
+      <article class="career-card">
+        <div class="career-card-header">
+          <div class="career-card-globe" aria-hidden="true">🌐</div>
+          <div class="career-card-title-wrap">
+            <h3 class="career-card-country">Other markets</h3>
+            <span class="career-card-region">Finland, Canada, South Korea</span>
+          </div>
+        </div>
+        <div class="career-card-comp-badge">
+          <span class="comp-label">Indicative Compensation</span>
+          <strong>Market- and role-specific</strong>
+        </div>
+        <div class="career-card-body">
+          <p class="career-card-opp">Emerging opportunities in sustainable aviation fuel, aerospace manufacturing, and simulation technology.</p>
+        </div>
+        <div class="career-card-footer">
+          <span class="career-card-employers-label">Representative Organisations:</span>
+          <span class="career-card-employers">Neste SAF, Bombardier, CAE</span>
+        </div>
+      </article>
     </div>
     <p class="disclaimer">Compensation figures and organisation names are indicative market references provided in the program brochure. Actual salaries and hiring requirements vary based on experience, location, employer, role level, and market conditions.</p>
   </div>
