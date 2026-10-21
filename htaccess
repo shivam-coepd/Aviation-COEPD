@@ -1,0 +1,12 @@
+# Protect sensitive files
+<FilesMatch "(config\.php|db\.sql|database\.sql)$">
+  Require all denied
+</FilesMatch>
+
+# Prevent directory listing
+Options -Indexes
+
+# Optional: force HTTPS on Hostinger after SSL is enabled
+# RewriteEngine On
+# RewriteCond %{HTTPS} off
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
