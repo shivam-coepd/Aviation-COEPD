@@ -96,56 +96,65 @@ a:hover{text-decoration:underline}
 .hero{
   position:relative;
   background:
-    linear-gradient(rgba(212, 212, 212, 0.72), rgba(149, 149, 149, 0.72)),
+    linear-gradient(135deg, rgba(13, 30, 48, 0.93) 0%, rgba(20, 45, 69, 0.88) 55%, rgba(10, 24, 38, 0.95) 100%),
     url('assets/images/hero-bg.jpg') center/cover no-repeat;
-  border-bottom:1px solid var(--line);
-  padding:88px 0 96px;
+  border-bottom:1px solid rgba(255,255,255,.08);
+  padding:76px 0 84px;
   color:#fff;
 }
-.hero h1{color:#000}
-.hero .eyebrow{background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.28);color:#fff}
-.hero-intro{color:#000}
-.hero-list li{color:#000}
-.hero .btn-secondary{border-color:rgba(255,255,255,.65);color:#fff}
-.hero .btn-secondary:hover{background:rgba(255,255,255,.12);color:#fff}
+.hero-grid{display:grid;grid-template-columns:1.08fr .92fr;gap:48px;align-items:start}
+.hero-badge{display:inline-flex;align-items:center;gap:9px;background:rgba(255,255,255,.09);border:1px solid rgba(255,255,255,.2);color:#dbe9f6;font-size:13px;font-weight:600;padding:7px 16px;border-radius:30px;margin-bottom:22px;letter-spacing:.02em}
+.hero-badge-dot{width:8px;height:8px;border-radius:50%;background:#4da6e9;box-shadow:0 0 0 2px rgba(77,166,233,.3)}
+.hero h1{font-size:clamp(34px,4.2vw,48px);color:#ffffff;line-height:1.18;font-weight:600;letter-spacing:-.015em;margin-bottom:20px}
+.hero-domain{color:#8ec5f1;font-weight:400}
+.hero-intro{font-size:17.5px;color:#d1e0ee;line-height:1.65;max-width:560px;margin-bottom:26px}
+.hero-list{margin:0 0 30px;list-style:none;display:flex;flex-direction:column;gap:13px}
+.hero-list li{display:flex;align-items:flex-start;gap:12px;color:#e3edf5;font-size:15px;line-height:1.55}
+.hero-check{width:18px;height:18px;color:#4da6e9;flex-shrink:0;margin-top:3px}
+.hero-actions{display:flex;gap:14px;flex-wrap:wrap;align-items:center}
+.btn{display:inline-block;padding:13px 24px;border-radius:6px;font-weight:600;font-size:15px;border:1px solid transparent;cursor:pointer;transition:.18s;text-align:center}
+.hero .btn-primary{background:#2a72b5;color:#fff;border-color:#3d8bd6;box-shadow:0 4px 14px rgba(0,0,0,.25)}
+.hero .btn-primary:hover{background:#1f609b;border-color:#2a72b5;text-decoration:none}
+.hero .btn-secondary{background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.35);color:#ffffff}
+.hero .btn-secondary:hover{background:rgba(255,255,255,.16);border-color:#ffffff;text-decoration:none}
 
-.hero-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:56px;align-items:start}
-.eyebrow{display:inline-block;background:var(--blue-light);color:var(--navy);font-size:13px;font-weight:600;padding:7px 14px;border-radius:5px;margin-bottom:22px}
-.hero h1{font-size:clamp(34px,4.4vw,52px);margin-bottom:20px}
-.hero-intro{font-size:18px;max-width:560px}
-.hero-list{margin:28px 0 32px;list-style:none}
-.hero-list li{position:relative;padding-left:28px;margin-bottom:12px}
-.hero-list li:before{content:"";position:absolute;left:0;top:10px;width:14px;height:2px;background:var(--accent)}
-.hero-actions{display:flex;gap:14px;flex-wrap:wrap}
-.btn{display:inline-block;padding:14px 24px;border-radius:6px;font-weight:600;font-size:15.5px;border:1px solid transparent;cursor:pointer;transition:.18s}
+.hero-highlights{margin-top:34px;padding-top:22px;border-top:1px solid rgba(255,255,255,.12);display:flex;align-items:center;gap:22px;flex-wrap:wrap}
+.hero-high-item{display:flex;flex-direction:column}
+.hero-high-item strong{font-size:14.5px;font-weight:700;color:#ffffff;letter-spacing:-.01em}
+.hero-high-item span{font-size:12px;color:#9ab5cb}
+.hero-high-sep{width:1px;height:26px;background:rgba(255,255,255,.14)}
+
 .btn-primary{background:var(--navy);color:#fff}
 .btn-primary:hover{background:var(--blue);text-decoration:none}
 .btn-secondary{background:transparent;border-color:var(--navy);color:var(--navy)}
 .btn-secondary:hover{background:var(--navy);color:#fff;text-decoration:none}
-.enquiry{background:#fff;border:1px solid var(--line);border-radius:10px;padding:32px;box-shadow:0 12px 32px rgba(23,50,77,.08)}
-.enquiry h2{font-size:24px;margin-bottom:8px}
-.enquiry>p{font-size:15px;margin-bottom:22px}
-.form-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
-.field{margin-bottom:16px}
+
+.enquiry{background:#fff;border:1px solid rgba(255,255,255,.2);border-radius:12px;padding:32px 30px;box-shadow:0 20px 48px -10px rgba(5,18,30,.38)}
+.enquiry-kicker{display:block;font-size:11.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--blue);margin-bottom:6px}
+.enquiry h2{font-size:23px;margin-bottom:6px;color:var(--navy)}
+.enquiry>p{font-size:14.5px;margin-bottom:20px;color:var(--muted);line-height:1.55}
+.form-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.field{margin-bottom:14px}
 .field.full{grid-column:1/-1}
-label{display:block;font-size:14px;font-weight:600;margin-bottom:6px;color:#000}
-input,select,textarea{width:100%;padding:12px 13px;border:1px solid #c8d0d7;border-radius:6px;font:inherit;font-size:15px;background:#fcfcfb}
-input:focus,select:focus,textarea:focus{outline:none;border-color:var(--blue);box-shadow:0 0 0 3px rgba(47,109,164,.13)}
-textarea{min-height:90px;resize:vertical}
+label{display:block;font-size:13.5px;font-weight:600;margin-bottom:5px;color:#17324d}
+input,select,textarea{width:100%;padding:11px 12px;border:1px solid #ccd5db;border-radius:6px;font:inherit;font-size:14.5px;background:#fbfcfd;transition:border-color .15s,box-shadow .15s,background .15s}
+input:focus,select:focus,textarea:focus{outline:none;background:#fff;border-color:var(--blue);box-shadow:0 0 0 3px rgba(47,109,164,.15)}
+textarea{min-height:84px;resize:vertical}
 .phone-input-group{display:flex;gap:10px;align-items:stretch}
-.country-code-wrap{flex:0 0 155px;min-width:130px}
+.country-code-wrap{flex:0 0 150px;min-width:125px}
 .country-code-select{cursor:pointer;text-overflow:ellipsis;white-space:nowrap}
 .phone-input{flex:1;min-width:0}
-@media(max-width:520px){.country-code-wrap{flex:0 0 130px;min-width:115px}}
+@media(max-width:520px){.country-code-wrap{flex:0 0 125px;min-width:110px}}
 .error-text{color:var(--error);font-size:13px;margin-top:5px}
 .input-error{border-color:var(--error)!important}
 .alert{padding:14px;border-radius:6px;font-size:14.5px;margin-bottom:18px}
 .alert-success{background:#eef6ee;border:1px solid #b7d3b8;color:var(--success)}
 .alert-error{background:#fdecea;border:1px solid #f0b6b1;color:var(--error)}
-.consent{display:flex;gap:10px;align-items:flex-start;font-size:13px;color:var(--muted);margin:4px 0 18px}
-.consent input{width:16px;height:16px;margin-top:4px;accent-color:var(--navy)}
-.form-submit{width:100%}
-.privacy-note{font-size:12.5px;color:var(--muted);margin-top:12px;text-align:center}
+.consent{display:flex;gap:10px;align-items:flex-start;font-size:13px;color:var(--muted);margin:4px 0 16px}
+.consent input{width:16px;height:16px;margin-top:3px;accent-color:var(--navy)}
+.form-submit{width:100%;padding:13px 20px;font-size:15.5px}
+.privacy-note{font-size:12.5px;color:var(--muted);margin-top:11px;text-align:center}
+
 .section{padding:82px 0}
 .section-alt{background:var(--sand);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
 .section-head{max-width:760px;margin-bottom:48px}
@@ -158,16 +167,21 @@ textarea{min-height:90px;resize:vertical}
 .pillar ul{margin:18px 0 0 18px;color:var(--muted);font-size:15px}
 .pillar li{margin-bottom:8px}
 .pillar-number{font-size:13px;font-weight:600;color:var(--blue);letter-spacing:.06em;text-transform:uppercase;margin-bottom:10px}
-.curriculum-grid{display:grid;grid-template-columns:.85fr 1.15fr;gap:48px;align-items:start}
-.curriculum-sidebar{display:flex;flex-direction:column;gap:24px}
-.curriculum-image-wrap{overflow:hidden;border-radius:10px;border:1px solid var(--line);box-shadow:0 8px 24px rgba(16,37,56,.08);background:#fff}
-.curriculum-image{width:100%;aspect-ratio:16/10;object-fit:cover;display:block;transition:transform .3s ease}
-.curriculum-image-wrap:hover .curriculum-image{transform:scale(1.02)}
-.curriculum-intro{background:var(--navy);color:#dbe5ed;border-radius:10px;padding:34px}
-.curriculum-intro h3{color:#fff;font-size:24px;margin-bottom:12px}
-.curriculum-intro p{color:#c3d0da;font-size:15.5px}
-.curriculum-intro ul{margin-top:20px;list-style:none}
-.curriculum-intro li{padding:12px 0;border-top:1px solid rgba(255,255,255,.16);font-size:15px}
+
+/* Unified Curriculum Card */
+.curriculum-grid{display:grid;grid-template-columns:.88fr 1.12fr;gap:44px;align-items:start}
+.curriculum-card{background:var(--navy);color:#dbe5ed;border-radius:12px;overflow:hidden;border:1px solid rgba(23,50,77,.15);box-shadow:0 12px 28px rgba(16,37,56,.08);display:flex;flex-direction:column}
+.curriculum-card-media{width:100%;line-height:0;background:#0d233a;overflow:hidden}
+.curriculum-card-img{width:100%;aspect-ratio:16/10;object-fit:cover;display:block;transition:transform .35s ease}
+.curriculum-card:hover .curriculum-card-img{transform:scale(1.02)}
+.curriculum-card-body{padding:30px 28px;flex:1;display:flex;flex-direction:column}
+.curriculum-card-kicker{display:block;font-size:11.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#8ec5f1;margin-bottom:8px}
+.curriculum-card-body h3{color:#fff;font-size:23px;margin-bottom:10px}
+.curriculum-card-body p{color:#c3d0da;font-size:15px;line-height:1.6}
+.curriculum-card-list{margin-top:18px;list-style:none;display:flex;flex-direction:column}
+.curriculum-card-list li{padding:11px 0;border-top:1px solid rgba(255,255,255,.14);font-size:14.5px;color:#e2ecf5;display:flex;align-items:center;gap:10px}
+.curriculum-card-list li::before{content:"";display:inline-block;width:6px;height:6px;border-radius:50%;background:#4da6e9;flex-shrink:0}
+
 .module-list{display:grid;gap:16px}
 .module{background:#fff;border:1px solid var(--line);border-left:4px solid var(--blue);border-radius:8px;padding:24px 26px}
 .module h4{font-size:19px;margin-bottom:8px}
@@ -194,10 +208,21 @@ td strong{color:var(--navy)}
 .final-cta h2{color:#fff;font-size:clamp(28px,3.4vw,40px);max-width:760px;margin:0 auto 16px}
 .final-cta p{color:#c8d5df;max-width:620px;margin:0 auto 30px;font-size:17px}
 .final-cta .btn-primary{background:#fff;color:var(--navy)}
-footer{background:var(--navy-dark);color:#a9b8c5;padding:34px 0;font-size:14px}
-.footer-inner{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;align-items:center}
-footer strong{color:#fff;font-family:'Source Serif 4',serif;font-size:16px}
+
+/* Footer with Brand Logo */
+footer{background:var(--navy-dark);color:#a9b8c5;padding:42px 0;font-size:14px;border-top:1px solid rgba(255,255,255,.08)}
+.footer-inner{display:flex;justify-content:space-between;gap:28px;flex-wrap:wrap;align-items:center}
+.footer-brand-wrap{display:flex;align-items:center;gap:18px;flex-wrap:wrap}
+.footer-logo-link{display:inline-flex;align-items:center;background:#fff;padding:8px 14px;border-radius:7px;transition:opacity .2s;box-shadow:0 2px 8px rgba(0,0,0,.15)}
+.footer-logo-link:hover{opacity:.92;text-decoration:none}
+.footer-logo{height:36px;width:auto;display:block;object-fit:contain}
+.footer-program-info strong{color:#fff;font-family:'Source Serif 4',Georgia,serif;font-size:16px;display:block}
+.footer-program-info span{color:#9cb2c4;font-size:13px}
+.footer-meta{text-align:right;font-size:13.5px;color:#9cb2c4;line-height:1.6}
+.footer-copyright{color:#6c8295;font-size:12.5px;margin-top:6px}
+
 @media(max-width:960px){.hero-grid,.curriculum-grid{grid-template-columns:1fr}.pillars,.capstone-grid,.value-grid{grid-template-columns:1fr}.main-nav{display:none}.section{padding:64px 0}}
+@media(max-width:768px){.footer-inner{flex-direction:column;align-items:flex-start;gap:20px}.footer-meta{text-align:left}}
 @media(max-width:620px){.form-grid{grid-template-columns:1fr}.enquiry{padding:24px}.hero{padding:56px 0}}
 </style>
 </head>
@@ -229,22 +254,54 @@ footer strong{color:#fff;font-family:'Source Serif 4',serif;font-size:16px}
 <section class="hero">
   <div class="wrap hero-grid">
     <div>
-      <span class="eyebrow">New program launch by COEPD</span>
-      <h1>Technical Product Manager — Aviation Domain</h1>
+      <div class="hero-badge">
+        <span class="hero-badge-dot"></span>
+        <span>New program launch by COEPD</span>
+      </div>
+      <h1>Technical Product Manager <span class="hero-domain">— Aviation Domain</span></h1>
       <p class="hero-intro">A five-month professional program for product, technology, and business professionals who want to build a career in aviation product management.</p>
       <ul class="hero-list">
-        <li>Learn product strategy, discovery, execution, compliance, and the complete product lifecycle.</li>
-        <li>Understand airline and cargo operations, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.</li>
-        <li>Apply your learning through six Agile capstone projects based on practical aviation product scenarios.</li>
-        <li>Prepare for product roles across airlines, cargo, travel technology, aerospace, and aviation software.</li>
+        <li>
+          <svg class="hero-check" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+          <span>Learn product strategy, discovery, execution, compliance, and the complete product lifecycle.</span>
+        </li>
+        <li>
+          <svg class="hero-check" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+          <span>Understand airline and cargo operations, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.</span>
+        </li>
+        <li>
+          <svg class="hero-check" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+          <span>Apply your learning through six Agile capstone projects based on practical aviation product scenarios.</span>
+        </li>
+        <li>
+          <svg class="hero-check" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+          <span>Prepare for product roles across airlines, cargo, travel technology, aerospace, and aviation software.</span>
+        </li>
       </ul>
       <div class="hero-actions">
         <a class="btn btn-primary" href="#enquiry">Request Program Details</a>
         <a class="btn btn-secondary" href="#program">View Program Structure</a>
       </div>
+      <div class="hero-highlights">
+        <div class="hero-high-item">
+          <strong>5 Months</strong>
+          <span>Live Online Learning</span>
+        </div>
+        <div class="hero-high-sep"></div>
+        <div class="hero-high-item">
+          <strong>6 Capstones</strong>
+          <span>Agile Project Portfolio</span>
+        </div>
+        <div class="hero-high-sep"></div>
+        <div class="hero-high-item">
+          <strong>IATA &amp; ONE Record</strong>
+          <span>Domain Standards</span>
+        </div>
+      </div>
     </div>
 
     <aside class="enquiry" id="enquiry">
+      <span class="enquiry-kicker">Admissions Open</span>
       <h2>Request program details</h2>
       <p>Share your details and our admissions team will send you the brochure, curriculum, batch schedule, and eligibility guidance.</p>
 
@@ -375,14 +432,21 @@ footer strong{color:#fff;font-family:'Source Serif 4',serif;font-size:16px}
       <p>The curriculum moves from core product-management concepts to aviation-specific knowledge and practical delivery skills.</p>
     </div>
     <div class="curriculum-grid">
-      <aside class="curriculum-sidebar">
-        <div class="curriculum-image-wrap">
-          <img src="assets/images/curriculum-learning.jpg" alt="Aviation Product Management Learning and Operations Workshop" class="curriculum-image" width="720" height="450" />
+      <aside class="curriculum-card">
+        <div class="curriculum-card-media">
+          <img src="assets/images/curriculum-learning.jpg" alt="Aviation Product Management Learning and Operations Workshop" class="curriculum-card-img" width="720" height="450">
         </div>
-        <div class="curriculum-intro">
+        <div class="curriculum-card-body">
+          <span class="curriculum-card-kicker">Learning Methodology</span>
           <h3>Learning approach</h3>
           <p>The program is designed to be practical and application-focused. Participants work through real-world scenarios, create product artefacts, and receive feedback on their work.</p>
-          <ul><li>Live instructor-led sessions</li><li>Aviation case studies and discussions</li><li>Product templates and frameworks</li><li>Practical assignments and reviews</li><li>Six portfolio-ready capstone projects</li></ul>
+          <ul class="curriculum-card-list">
+            <li>Live instructor-led sessions</li>
+            <li>Aviation case studies and discussions</li>
+            <li>Product templates and frameworks</li>
+            <li>Practical assignments and reviews</li>
+            <li>Six portfolio-ready capstone projects</li>
+          </ul>
         </div>
       </aside>
       <div class="module-list">
@@ -468,8 +532,19 @@ footer strong{color:#fff;font-family:'Source Serif 4',serif;font-size:16px}
 
 <footer>
   <div class="wrap footer-inner">
-    <div><strong>COEPD</strong><br>Technical Product Manager — Aviation Domain | 5-Month Program</div>
-    <div>Product strategy · Aviation operations · IATA standards · Agile capstone projects · Career support</div>
+    <div class="footer-brand-wrap">
+      <a href="#top" class="footer-logo-link" aria-label="COEPD">
+        <img src="assets/images/logo.png" alt="COEPD Logo" class="footer-logo" width="180" height="67">
+      </a>
+      <div class="footer-program-info">
+        <strong>COEPD</strong>
+        <span>Technical Product Manager — Aviation Domain | 5-Month Program</span>
+      </div>
+    </div>
+    <div class="footer-meta">
+      <div>Product strategy · Aviation operations · IATA standards · Agile capstone projects · Career support</div>
+      <div class="footer-copyright">&copy; <?= date('Y') ?> COEPD. All rights reserved.</div>
+    </div>
   </div>
 </footer>
 </body>
