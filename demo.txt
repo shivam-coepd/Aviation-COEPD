@@ -1,0 +1,1 @@
+Demo text file to check Hostinger CI/CD.
