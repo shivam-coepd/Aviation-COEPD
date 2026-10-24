@@ -1,0 +1,2456 @@
+{
+  "india": {
+    "name": "India",
+    "slug": "india",
+    "flag": "assets/flags/India_flag.png",
+    "dial_code": "+91",
+    "currency": "INR",
+    "indicative_comp": "₹15 lakh–₹50 lakh per year",
+    "top_employers": "IndiGo Digital, Air India, IBS, Amadeus, SITA",
+    "timezone": "Indian Standard Time (IST / UTC+5:30)",
+    "batch_timing": "Weekend Live Online (Saturday & Sunday)",
+    "hreflang": "en-IN",
+    "seo_title": "Aviation Product Management Course in India | COEPD",
+    "meta_desc": "Learn Aviation Product Management with COEPD's 5-month live online course in India. Explore airline systems, Agile methods and 6 capstone projects.",
+    "canonical_url": "https://aviation.coepd.co/india/",
+    "h1": "Aviation Product Management Course in India",
+    "hero_eyebrow": "Specialized Aviation Product Management Training in India",
+    "hero_intro": "I recommend creating the India landing page as a combined SEO + lead-generation page, targeting professionals searching for Aviation Product Management training, Technical Product Manager courses, and opportunities to move into aviation technology roles. The content below is ready for your website developer to implement on `aviation.coepd.co`, with a clear heading hierarchy, conversion-focused copy and SEO metadata. The program curriculum and structure follow your uploaded COEPD aviation brochure.; Aviation-Technical Product Manager-Brochure_Global Market.html Aviation-Technical Product Manager-Brochure_Global Market.html",
+    "hero_takeaways": [
+      "Master technical product strategy, discovery, Agile delivery and product lifecycle management for aviation software.",
+      "Understand airline systems, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.",
+      "Complete six Agile capstone projects covering passenger journeys, flight operations, and cargo workflows.",
+      "Prepare for technical product manager, product owner, and aviation business analyst roles in India and global markets."
+    ],
+    "why_learn_title": "Why Learn Aviation Product Management in India?",
+    "why_learn_intro": "India's aviation ecosystem includes airlines, airports, aviation IT companies, cargo operators, software service providers and travel technology businesses.\nAs aviation operations become more technology-driven, professionals who understand both digital product development and aviation workflows can contribute to a wide variety of industry technology initiatives.\nSpecialized aviation product management knowledge can be relevant to the development and improvement of systems such as:",
+    "why_learn_points": [
+      {
+        "title": "Airline Reservation & Passenger Systems",
+        "desc": "Understand the role of digital systems supporting passenger bookings, reservation workflows and the passenger journey."
+      },
+      {
+        "title": "Airline & Airport Operations Technology",
+        "desc": "Explore the business processes and technology requirements that support airline operations, departure control and operational coordination."
+      },
+      {
+        "title": "Aviation Cargo & Logistics Platforms",
+        "desc": "Learn about air cargo processes, shipment visibility, documentation workflows and digital cargo information exchange."
+      },
+      {
+        "title": "Aviation Product Development",
+        "desc": "Understand how product requirements, prioritization, stakeholder collaboration and Agile methods support aviation technology initiatives."
+      },
+      {
+        "title": "Aviation Data, Governance & Compliance",
+        "desc": "Explore the importance of reliable information, data governance, privacy awareness and industry standards in aviation technology products. **CTA:** Explore the Aviation Product Management Curriculum ---"
+      }
+    ],
+    "audience_title": "Who Should Enrol in This Aviation Product Management Course in India?",
+    "audience_intro": "This aviation-focused training program is relevant to learners from multiple educational and professional backgrounds.",
+    "audience_points": [
+      {
+        "role": "IT Professionals & Software Developers",
+        "desc": "Professionals working in software development, testing, system integration or technology services who want to understand how digital products are planned and managed in the aviation domain."
+      },
+      {
+        "role": "Business Analysts",
+        "desc": "Business Analysts who want to expand their domain knowledge and understand aviation-focused product requirements, stakeholder needs and product lifecycle activities."
+      },
+      {
+        "role": "Aspiring Product Managers",
+        "desc": "Professionals exploring Technical Product Manager or Product Manager career pathways who want to develop specialized industry knowledge."
+      },
+      {
+        "role": "Aviation Industry Professionals",
+        "desc": "People familiar with airline, airport, cargo or aviation operations who want to strengthen their understanding of digital product development and technology-led business transformation."
+      },
+      {
+        "role": "Technology Consultants & Project Professionals",
+        "desc": "Professionals who work with stakeholders, software implementations or technology delivery and want exposure to aviation product concepts."
+      },
+      {
+        "role": "Graduates Exploring Aviation Technology Careers",
+        "desc": "Graduates interested in aviation IT, product analysis and technology-related career pathways who are prepared to develop foundational technical and business competencies. Course suitability will depend on previous education, work experience and individual career objectives. **CTA:** Check Your Program Suitability ---"
+      }
+    ],
+    "career_title": "Aviation Technology & Product Management Career Pathways in India",
+    "career_intro": "Aviation technology and product management knowledge can be relevant to different job functions within airline technology, aviation software, digital operations and product-focused businesses.\nDepending on qualifications, experience and organizational requirements, learners may explore opportunities related to:",
+    "career_roles": [
+      {
+        "title": "Aviation Technical Product Manager",
+        "desc": "Supports product planning and development activities for technology products used in aviation environments."
+      },
+      {
+        "title": "Aviation Product Analyst",
+        "desc": "Works with business requirements, product data, workflows and stakeholder needs related to aviation digital solutions."
+      },
+      {
+        "title": "Airline Technology Business Analyst",
+        "desc": "Helps translate airline business and operational needs into software and system requirements."
+      },
+      {
+        "title": "Aviation Software Product Owner",
+        "desc": "Supports product backlog management, prioritization and collaboration within an Agile aviation technology team."
+      },
+      {
+        "title": "Aviation Digital Transformation Professional",
+        "desc": "Contributes to technology improvement initiatives, business process modernization and digital product adoption."
+      },
+      {
+        "title": "Aviation Technology Consultant",
+        "desc": "Supports organizations involved in aviation software implementation, business analysis or technology transformation initiatives. Examples of aviation technology organizations relevant to industry research include Amadeus, SITA and IBS Software, along with technology teams supporting airlines, airports and cargo businesses. These organizations are examples of the industry ecosystem, not claims of COEPD recruitment partnerships. Job opportunities and eligibility depend on individual background, employer requirements and prevailing market conditions. **CTA:** Discuss Your Aviation Career Path ---"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "1. What is an Aviation Product Management course?",
+        "a": "An Aviation Product Management course introduces product management concepts within the aviation industry. It may cover aviation business workflows, airline technology systems, product strategy, requirements, Agile development and stakeholder management."
+      },
+      {
+        "q": "2. What is the duration of COEPD's Aviation Technical Product Manager course?",
+        "a": "COEPD's referenced program has a duration of five months, combining live online training, self-learning and practical aviation capstone projects."
+      },
+      {
+        "q": "3. Can IT professionals learn Aviation Product Management?",
+        "a": "Yes. IT professionals interested in aviation technology can explore aviation product management training to develop knowledge of airline operations, business requirements and industry-specific digital products. Their existing technical experience may be relevant to this learning pathway."
+      },
+      {
+        "q": "4. Can Business Analysts move into Aviation Product Management?",
+        "a": "Business Analysts can explore Aviation Product Management as a potential specialization. Their experience with requirements, stakeholder communication and business processes may provide a useful foundation, although role eligibility depends on additional skills and experience."
+      },
+      {
+        "q": "5. Is this Aviation Product Management course available online?",
+        "a": "Yes. The COEPD program described here uses live online sessions, with weekend learning and weekday self-learning activities."
+      },
+      {
+        "q": "6. Does the training include practical projects?",
+        "a": "Yes. The referenced curriculum includes six aviation-focused capstone projects using Agile concepts and end-to-end product lifecycle simulations."
+      },
+      {
+        "q": "7. What aviation topics are covered in the course?",
+        "a": "The training covers airline and cargo processes, booking-to-departure control, core aviation operations, load control, turnaround, disruption handling, digital cargo processes and relevant aviation standards."
+      },
+      {
+        "q": "8. Is aviation domain experience mandatory?",
+        "a": "Professionals with and without prior aviation industry exposure may find the curriculum relevant. Confirm the official admission prerequisites and any required technical or professional background with COEPD before applying."
+      },
+      {
+        "q": "9. Will the course guarantee a Product Manager job?",
+        "a": "Completing the course does not guarantee employment, placement or promotion. The training is intended to develop relevant domain and product competencies, while job outcomes depend on employer requirements, individual experience and selection processes."
+      },
+      {
+        "q": "10. How can I enroll in COEPD's Aviation Product Management course in India?",
+        "a": "Submit an enquiry using the registration form or contact the COEPD admissions team to obtain the latest information about eligibility, course fees, upcoming batches and the enrollment process. ---"
+      }
+    ]
+  },
+  "usa": {
+    "name": "United States",
+    "slug": "usa",
+    "flag": "assets/flags/United_States_flag.png",
+    "dial_code": "+1",
+    "currency": "USD",
+    "indicative_comp": "$107,000–$214,000 per year",
+    "top_employers": "Boeing, American Airlines, JetBlue, ForeFlight",
+    "timezone": "US Timezones (EST / CST / PST)",
+    "batch_timing": "Weekend Live Online Sessions",
+    "hreflang": "en-US",
+    "seo_title": "Aviation Product Management Course in USA | COEPD",
+    "meta_desc": "Explore COEPD's 5-month online Aviation Product Management course for US professionals. Learn airline systems, product strategy, Agile and 6 capstone projects.",
+    "canonical_url": "https://aviation.coepd.co/usa/",
+    "h1": "Online Aviation Product Management Course in the USA",
+    "hero_eyebrow": "Specialized Aviation Product Management Training in United States",
+    "hero_intro": "Target audience US-based software engineers, business analysts, product professionals, aviation technology specialists and career transitioners.",
+    "hero_takeaways": [
+      "Master technical product strategy, discovery, Agile delivery and product lifecycle management for aviation software.",
+      "Understand airline systems, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.",
+      "Complete six Agile capstone projects covering passenger journeys, flight operations, and cargo workflows.",
+      "Prepare for technical product manager, product owner, and aviation business analyst roles in United States and global markets."
+    ],
+    "why_learn_title": "Why Learn Aviation Product Management in United States?",
+    "why_learn_intro": "The United States has a complex aviation ecosystem involving commercial airlines, airports, aviation software providers, cargo businesses and public-sector aviation infrastructure.\nAviation technology plays an important role in coordinating complex operations, processing information, improving visibility and supporting operational decisions.\nDigital systems are used throughout aviation, including airline reservation processes, airport and airline operations, air cargo management and flight-related information exchange.\nThe Federal Aviation Administration (FAA) has also invested in modernizing air traffic systems and information management infrastructure, illustrating the importance of technology in the US aviation ecosystem.\nFor professionals interested in specialized product roles, aviation domain knowledge can complement existing technical, analytical and product management skills.",
+    "why_learn_points": [
+      {
+        "title": "Airline Digital Products",
+        "desc": "Explore how software platforms support reservation processes, passenger journeys, airline service delivery and digital customer experiences."
+      },
+      {
+        "title": "Airport & Airline Operations Technology",
+        "desc": "Understand the relationships between operational processes, airline information systems, departure control and technology-enabled coordination."
+      },
+      {
+        "title": "Aviation Cargo Technology",
+        "desc": "Learn about digital shipment processes, Air Waybill documentation, electronic information exchange and cargo visibility systems."
+      },
+      {
+        "title": "Aviation Software Product Development",
+        "desc": "Understand how business problems are converted into product requirements, priorities and development activities."
+      },
+      {
+        "title": "Compliance-Aware Product Design",
+        "desc": "Explore why privacy, data governance, industry standards and operational constraints must be considered when managing aviation technology products. **CTA: Explore the Aviation Product Management Curriculum** ---"
+      }
+    ],
+    "audience_title": "Who Should Enrol in This Aviation Product Management Course in United States?",
+    "audience_intro": "COEPD's aviation-focused program is relevant to professionals who want to develop industry-specific product and technology knowledge.",
+    "audience_points": [
+      {
+        "role": "Software Engineers & IT Professionals",
+        "desc": "Technology professionals interested in strengthening their understanding of product planning, stakeholder requirements and aviation software ecosystems."
+      },
+      {
+        "role": "Business Analysts & Systems Analysts",
+        "desc": "Professionals with experience in requirements analysis and process improvement who want to explore aviation-specific product and business workflows."
+      },
+      {
+        "role": "Product Owners & Product Management Professionals",
+        "desc": "Individuals who already work with digital products and want to develop a deeper understanding of the aviation industry."
+      },
+      {
+        "role": "Airline & Aviation Technology Professionals",
+        "desc": "Professionals with aviation operations or business experience who want to understand digital product development and product management practices."
+      },
+      {
+        "role": "Project Managers & Technology Consultants",
+        "desc": "Professionals interested in the relationship between business strategy, technical execution and product delivery within aviation environments."
+      },
+      {
+        "role": "Career Transitioners",
+        "desc": "People with relevant transferable skills who are exploring aviation technology and product-oriented career pathways. *The course introduces relevant competencies but does not guarantee eligibility for specific US employment opportunities.* **CTA: Discuss Your Career Goals with a Program Advisor** ---"
+      }
+    ],
+    "career_title": "Aviation Technology & Product Management Career Pathways in United States",
+    "career_intro": "Aviation technology organizations use a range of product, business analysis, software development and digital operations skills.\nProfessionals with suitable education and work experience may explore career pathways such as the following.",
+    "career_roles": [
+      {
+        "title": "Aviation Technical Product Manager",
+        "desc": "Works on product planning, requirements and delivery for aviation-related digital products."
+      },
+      {
+        "title": "Airline Technology Product Manager",
+        "desc": "Helps manage software products and technology initiatives supporting airline business processes and operations."
+      },
+      {
+        "title": "Aviation Software Product Owner",
+        "desc": "Supports backlog prioritization, Agile collaboration and product development activities for aviation software solutions."
+      },
+      {
+        "title": "Aviation Product Analyst",
+        "desc": "Examines product requirements, workflows, user needs and data to support aviation technology improvements."
+      },
+      {
+        "title": "Airline Systems Business Analyst",
+        "desc": "Supports requirements gathering, process analysis and coordination for airline technology projects."
+      },
+      {
+        "title": "Aviation Digital Transformation Consultant",
+        "desc": "Contributes to technology-enabled improvements in aviation business operations and software processes. Relevant organizations within the broader aviation ecosystem include airlines, airports, aviation software providers, aerospace technology companies and cargo technology businesses. Examples of organizations to research include Boeing, Collins Aerospace, SITA, Amadeus and Sabre. These are industry examples only. They are not representations of hiring partnerships, guaranteed interviews or placement opportunities through COEPD. Actual job eligibility depends on qualifications, industry experience, technical skills, employer requirements and applicable US work authorization. **CTA: Explore Your Aviation Product Management Career Path** ---"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "1. What is Aviation Product Management?",
+        "a": "Aviation Product Management focuses on digital products and technologies used in airline operations, airports, aviation businesses and related software systems. It combines product management methods with aviation domain knowledge."
+      },
+      {
+        "q": "2. Is COEPD's Aviation Technical Product Manager course available online in the USA?",
+        "a": "The COEPD program uses a live online training format. US learners can enquire about enrollment, time zone compatibility and current admission requirements."
+      },
+      {
+        "q": "3. How long is the Aviation Product Management course?",
+        "a": "The referenced COEPD training program runs for five months and includes product foundations, aviation knowledge and six Agile-based capstone projects."
+      },
+      {
+        "q": "4. Is this course suitable for US software engineers and business analysts?",
+        "a": "The content can be relevant to software engineers and business analysts who want to develop aviation domain knowledge and product management capabilities. Learners should confirm the official program prerequisites."
+      },
+      {
+        "q": "5. Does the program teach FAA regulations?",
+        "a": "The referenced syllabus includes high-level regulatory and aviation standards awareness. It should not be represented as a dedicated FAA regulatory training course or FAA-authorized qualification unless COEPD separately verifies those offerings."
+      },
+      {
+        "q": "6. Does the program include hands-on projects?",
+        "a": "Yes. The program includes six aviation-focused capstone simulations designed to connect product management methods with practical aviation business problems."
+      },
+      {
+        "q": "7. Do I need previous aviation experience?",
+        "a": "Previous aviation experience may be helpful but is not necessarily required to understand foundational aviation concepts. Applicants should confirm eligibility requirements with COEPD."
+      },
+      {
+        "q": "8. Will this course help me become an Aviation Product Manager?",
+        "a": "The program can help learners build relevant knowledge and explore the competencies used in aviation product roles. Employment outcomes depend on experience, qualifications, technical skills and employer selection processes."
+      },
+      {
+        "q": "9. Does COEPD provide a certificate?",
+        "a": "Applicants should request official information about course completion certificates, issuing institution, assessment requirements and any applicable recognition. The program should not be described as FAA-accredited or US university-accredited without documented authorization."
+      },
+      {
+        "q": "10. What is the tuition fee for learners in the United States?",
+        "a": "The current US enrollment fee should be confirmed directly with COEPD. Request the latest USD pricing, payment terms and refund policy during your consultation."
+      },
+      {
+        "q": "11. Can I join the program while working full-time in the USA?",
+        "a": "The program combines weekend live online sessions with weekday self-learning. Working professionals should verify available schedules and expected weekly commitments before registering."
+      },
+      {
+        "q": "12. Does the course guarantee employment in the USA?",
+        "a": "No. Completion of professional training does not guarantee employment, visa eligibility, employer sponsorship or placement in the United States. ---"
+      }
+    ]
+  },
+  "uk": {
+    "name": "United Kingdom",
+    "slug": "uk",
+    "flag": "assets/flags/United_Kingdom_flag.png",
+    "dial_code": "+44",
+    "currency": "GBP",
+    "indicative_comp": "£47,000–£83,000 per year",
+    "top_employers": "BAE Systems, Rolls-Royce, easyJet Labs",
+    "timezone": "GMT / BST (UK Time)",
+    "batch_timing": "Weekend Live Online Sessions",
+    "hreflang": "en-GB",
+    "seo_title": "Aviation Product Management Course UK | COEPD",
+    "meta_desc": "Explore COEPD's 5-month online Aviation Product Management course for UK professionals. Learn airline technology, Agile methods and 6 practical projects.",
+    "canonical_url": "https://aviation.coepd.co/uk/",
+    "h1": "Online Aviation Product Management Course in the UK",
+    "hero_eyebrow": "Specialized Aviation Product Management Training in United Kingdom",
+    "hero_intro": "Audience UK-based IT professionals, business analysts, product owners, software engineers, project managers and aviation technology professionals.",
+    "hero_takeaways": [
+      "Master technical product strategy, discovery, Agile delivery and product lifecycle management for aviation software.",
+      "Understand airline systems, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.",
+      "Complete six Agile capstone projects covering passenger journeys, flight operations, and cargo workflows.",
+      "Prepare for technical product manager, product owner, and aviation business analyst roles in United Kingdom and global markets."
+    ],
+    "why_learn_title": "Why Learn Aviation Product Management in United Kingdom?",
+    "why_learn_intro": "The United Kingdom has an established aviation industry comprising commercial airlines, airports, aerospace businesses, aviation technology providers, cargo operators and supporting digital service organisations.\nThe industry depends on technology to support operational coordination, passenger services, information exchange and increasingly complex business processes.\nUK aviation also operates within an evolving technology and regulatory environment, where organisations must consider operational efficiency, safety, reliability, information management and compliance.\nSpecialist Aviation Product Management knowledge can complement existing expertise in software development, business analysis, digital transformation and technology delivery.",
+    "why_learn_points": [
+      {
+        "title": "Airline Digital Systems",
+        "desc": "Understand the role of technology in airline reservations, passenger processes and digital service management."
+      },
+      {
+        "title": "Airport Operations Technology",
+        "desc": "Explore how digital platforms can support operational workflows, information visibility and coordination between aviation stakeholders."
+      },
+      {
+        "title": "Aviation Cargo & Logistics Systems",
+        "desc": "Learn about Air Waybill processes, electronic documentation, shipment information exchange and digital cargo workflows."
+      },
+      {
+        "title": "Aviation Digital Product Development",
+        "desc": "Understand how industry requirements can be translated into product objectives, features and technical delivery activities."
+      },
+      {
+        "title": "Regulatory & Compliance-Aware Product Thinking",
+        "desc": "Explore how industry standards, privacy, data protection and operational requirements influence aviation technology products. **CTA: Explore the Aviation Product Management Curriculum** ---"
+      }
+    ],
+    "audience_title": "Who Should Enrol in This Aviation Product Management Course in United Kingdom?",
+    "audience_intro": "The programme is relevant to professionals exploring aviation-related product and technology specialisation.",
+    "audience_points": [
+      {
+        "role": "Software Engineers & IT Professionals",
+        "desc": "Professionals working in software development, application testing, system integration or digital technology who want to expand their understanding of aviation product development."
+      },
+      {
+        "role": "Business Analysts",
+        "desc": "Business Analysts interested in developing knowledge of airline workflows, digital product requirements, aviation technology and product management responsibilities."
+      },
+      {
+        "role": "Product Owners & Product Managers",
+        "desc": "Professionals with existing product experience who want to explore aviation-specific operational challenges, stakeholder requirements and technology environments."
+      },
+      {
+        "role": "Aviation Industry Professionals",
+        "desc": "Individuals working in aviation operations, airline services, cargo or associated functions who want to develop a better understanding of digital products and technical product delivery."
+      },
+      {
+        "role": "Project Managers & Technology Consultants",
+        "desc": "Professionals involved in digital delivery, business transformation or cross-functional technology projects who want exposure to aviation product concepts."
+      },
+      {
+        "role": "Graduates & Career Changers",
+        "desc": "Graduates and professionals considering new learning pathways in aviation technology, digital business analysis and product management. Applicants should assess their experience, technical background and career objectives before choosing a professional development course. **CTA: Check Your Programme Suitability** ---"
+      }
+    ],
+    "career_title": "Aviation Technology & Product Management Career Pathways in United Kingdom",
+    "career_intro": "Product management and digital technology skills can be relevant across airline technology, aviation software, aerospace-related digital services and operational technology businesses.\nDepending on experience, qualifications and individual skills, professionals may explore positions such as:",
+    "career_roles": [
+      {
+        "title": "Aviation Technical Product Manager",
+        "desc": "Supports the planning and development of technology products designed for aviation business and operational requirements."
+      },
+      {
+        "title": "Airline Technology Product Manager",
+        "desc": "Works on digital products supporting airline systems, passenger journeys or operational business functions."
+      },
+      {
+        "title": "Aviation Product Owner",
+        "desc": "Contributes to feature prioritisation, backlog management and Agile software delivery for aviation-related applications."
+      },
+      {
+        "title": "Aviation Business Analyst",
+        "desc": "Works with business requirements, process understanding and technology teams supporting airline or aviation initiatives."
+      },
+      {
+        "title": "Aviation Product Analyst",
+        "desc": "Supports product requirements, user research, process evaluation and product improvement activities."
+      },
+      {
+        "title": "Aviation Digital Transformation Consultant",
+        "desc": "Contributes to technology change, process modernisation and digital product adoption in aviation-related environments. UK aviation businesses and technology organisations that professionals may research include British Airways, easyJet, Rolls-Royce, SITA and Amadeus. These companies are examples of the wider aviation and technology ecosystem, not COEPD recruitment partners or guaranteed employers. Eligibility for roles depends on employers' requirements, relevant experience, qualifications and applicable UK right-to-work conditions. **CTA: Discuss Your Aviation Product Management Career Goals** ---"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "1. What is an Aviation Product Management course?",
+        "a": "An Aviation Product Management course introduces the principles of developing and managing digital products used in aviation businesses. It combines product management topics with aviation processes, technology systems and industry-specific requirements."
+      },
+      {
+        "q": "2. Is COEPD's Aviation Product Management training available online in the UK?",
+        "a": "The COEPD programme is delivered through live online sessions. UK-based learners can enquire about enrolment options and confirm class schedules compatible with their time zone."
+      },
+      {
+        "q": "3. How long is the course?",
+        "a": "The referenced Aviation Technical Product Manager programme has a duration of five months."
+      },
+      {
+        "q": "4. Is the programme suitable for UK IT professionals and business analysts?",
+        "a": "The programme is relevant to professionals interested in developing aviation-specific product knowledge. Applicants should review the entry requirements and suitability with COEPD."
+      },
+      {
+        "q": "5. What skills are covered in the training?",
+        "a": "Learning areas include product strategy, roadmaps, technical requirements, Agile concepts, stakeholder management, aviation workflows and relevant industry standards."
+      },
+      {
+        "q": "6. Does the course cover UK Civil Aviation Authority regulations?",
+        "a": "The referenced syllabus includes aviation regulatory and standards awareness. It does not establish that the programme provides dedicated UK CAA regulatory qualifications or CAA-accredited training."
+      },
+      {
+        "q": "7. Does the course include practical projects?",
+        "a": "Yes. The programme includes six aviation-focused capstone simulations using Agile product development concepts."
+      },
+      {
+        "q": "8. Do I need previous aviation industry experience?",
+        "a": "The programme includes foundational aviation knowledge, which may be useful for learners without industry experience. Applicants should confirm COEPD's official entry requirements before enrolling."
+      },
+      {
+        "q": "9. Will I receive a certificate after completing the programme?",
+        "a": "Applicants should confirm the official certificate issued, its requirements and any recognition details directly with COEPD. Do not assume the programme provides UK-regulated qualifications or external accreditation."
+      },
+      {
+        "q": "10. What are the course fees for UK learners?",
+        "a": "Contact COEPD to request the current tuition fees in GBP, payment terms and refund policy."
+      },
+      {
+        "q": "11. Can I attend while working full-time in the UK?",
+        "a": "The training combines weekend live sessions with weekday self-learning. Participants should confirm class timings, workload and attendance expectations before registering."
+      },
+      {
+        "q": "12. Does COEPD guarantee employment in the UK?",
+        "a": "No. Training completion does not guarantee employment, interviews, visa sponsorship, career progression or placement in the United Kingdom. ---"
+      }
+    ]
+  },
+  "uae": {
+    "name": "United Arab Emirates",
+    "slug": "uae",
+    "flag": "assets/flags/United_Arab_Emirates_flag.png",
+    "dial_code": "+971",
+    "currency": "AED",
+    "indicative_comp": "AED 15,000–30,000 per month, tax-free",
+    "top_employers": "Emirates Group, Etihad, flydubai",
+    "timezone": "Gulf Standard Time (GST / UTC+4)",
+    "batch_timing": "Weekend Live Online Sessions",
+    "hreflang": "en-AE",
+    "seo_title": "Aviation Product Management Course UAE | COEPD",
+    "meta_desc": "Explore COEPD's 5-month online Aviation Product Management course in the UAE. Learn airline systems, Agile product delivery and 6 aviation capstone projects.",
+    "canonical_url": "https://aviation.coepd.co/uae/",
+    "h1": "Online Aviation Product Management Course in UAE",
+    "hero_eyebrow": "Specialized Aviation Product Management Training in United Arab Emirates",
+    "hero_intro": "Target audience UAE-based IT professionals, Business Analysts, Product Owners, Software Engineers, Project Managers and aviation industry professionals.",
+    "hero_takeaways": [
+      "Master technical product strategy, discovery, Agile delivery and product lifecycle management for aviation software.",
+      "Understand airline systems, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.",
+      "Complete six Agile capstone projects covering passenger journeys, flight operations, and cargo workflows.",
+      "Prepare for technical product manager, product owner, and aviation business analyst roles in United Arab Emirates and global markets."
+    ],
+    "why_learn_title": "Why Learn Aviation Product Management in United Arab Emirates?",
+    "why_learn_intro": "The United Arab Emirates is an important global aviation and air transport hub, supported by international airlines, major airports, cargo businesses and aviation technology providers.\nDubai and Abu Dhabi play prominent roles in connecting passenger and cargo movements across international markets.\nTechnology is central to the operations of modern aviation businesses, supporting digital passenger services, operational planning, airport systems, information management and cargo processing.\nProfessionals with experience in software development, business analysis, product management or aviation operations may benefit from understanding how digital products are designed and managed in these environments.",
+    "why_learn_points": [
+      {
+        "title": "Airline Digital Transformation",
+        "desc": "Understand how digital products support airline reservation processes, passenger services, business operations and technology-enabled improvements."
+      },
+      {
+        "title": "Smart Airport Technology",
+        "desc": "Explore technology concepts related to airport information systems, passenger processing, operational visibility and digital service delivery."
+      },
+      {
+        "title": "Aviation Cargo & Logistics Platforms",
+        "desc": "Understand the role of technology in air cargo processes, electronic Air Waybills, shipment documentation and information exchange."
+      },
+      {
+        "title": "Airline Operations & Technology Systems",
+        "desc": "Learn about airline workflows, departure control, flight-related operations and the digital systems supporting them."
+      },
+      {
+        "title": "Aviation Product Strategy & Agile Delivery",
+        "desc": "Explore how aviation business needs can be translated into product objectives, requirements and development priorities."
+      },
+      {
+        "title": "Compliance-Aware Aviation Technology",
+        "desc": "Develop high-level awareness of aviation standards, data management, operational requirements and relevant compliance considerations. **CTA: Explore the Aviation Product Management Curriculum** ---"
+      }
+    ],
+    "audience_title": "Who Should Enrol in This Aviation Product Management Course in United Arab Emirates?",
+    "audience_intro": "COEPD's aviation-focused training is relevant to professionals interested in developing specialised product management and aviation technology knowledge.",
+    "audience_points": [
+      {
+        "role": "IT Professionals & Software Engineers",
+        "desc": "Software developers, technical specialists and IT professionals interested in understanding how digital products are designed and managed within the aviation industry."
+      },
+      {
+        "role": "Business Analysts & Systems Analysts",
+        "desc": "Professionals experienced in requirements gathering, business processes and technology projects who want to explore aviation-specific product and operational concepts."
+      },
+      {
+        "role": "Product Owners & Product Managers",
+        "desc": "Professionals interested in expanding their industry expertise into airline technology, airport operations and aviation digital platforms."
+      },
+      {
+        "role": "Aviation & Airline Operations Professionals",
+        "desc": "Individuals working in aviation-related environments who want to understand the relationship between operational workflows, digital products and technical product development."
+      },
+      {
+        "role": "Project Managers & Technology Consultants",
+        "desc": "Professionals involved in technology delivery or business transformation who want exposure to aviation-focused product management practices."
+      },
+      {
+        "role": "Career Transitioners",
+        "desc": "Professionals exploring new learning pathways in aviation technology, business analysis and digital product management. Applicants should confirm their eligibility and evaluate how the programme aligns with their education, professional experience and career objectives. **CTA: Check Your Eligibility for the Aviation Programme** ---"
+      }
+    ],
+    "career_title": "Aviation Technology & Product Management Career Pathways in United Arab Emirates",
+    "career_intro": "The UAE aviation ecosystem includes airlines, airports, air cargo operators, aviation software businesses and related technology service providers.\nDigital product development and business analysis skills may be relevant across a range of aviation technology functions.\nDepending on qualifications and professional experience, learners may explore roles such as:",
+    "career_roles": [
+      {
+        "title": "Aviation Technical Product Manager",
+        "desc": "Supports planning, requirements and product delivery for aviation-related digital products."
+      },
+      {
+        "title": "Airline Technology Product Manager",
+        "desc": "Works on technology products that support airline business processes and operational functions."
+      },
+      {
+        "title": "Aviation Software Product Owner",
+        "desc": "Supports Agile development activities, feature prioritisation and product backlog management."
+      },
+      {
+        "title": "Aviation Business Analyst",
+        "desc": "Works with aviation workflows, stakeholder requirements and business-to-technology communication."
+      },
+      {
+        "title": "Aviation Product Analyst",
+        "desc": "Supports requirements analysis, product research, process understanding and product improvement."
+      },
+      {
+        "title": "Aviation Digital Transformation Consultant",
+        "desc": "Contributes to digital technology initiatives, operational improvements and technology adoption in aviation environments. Examples of organisations within the broader UAE aviation ecosystem include Emirates, flydubai, Etihad Airways, Dubai Airports, Abu Dhabi Airports and aviation technology service providers. These organisations are mentioned only as industry examples, not as COEPD recruitment partners or guaranteed employment destinations. Job eligibility and career opportunities depend on relevant experience, qualifications, employer requirements and UAE work authorisation conditions. **CTA: Discuss Your Aviation Product Management Career Path** ---"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "1. What is an Aviation Product Management course?",
+        "a": "An Aviation Product Management course introduces product management concepts within aviation businesses, including airline technology, operational workflows, digital products, requirements, Agile development and product lifecycle management."
+      },
+      {
+        "q": "2. Is COEPD's Aviation Product Management course available online in UAE?",
+        "a": "COEPD's referenced programme follows a live online training format. UAE-based learners can contact the admissions team to verify enrolment eligibility and suitable class schedules."
+      },
+      {
+        "q": "3. How long is the Aviation Technical Product Manager course?",
+        "a": "The programme is structured as a five-month training journey."
+      },
+      {
+        "q": "4. Can IT professionals in Dubai enrol in Aviation Product Management training?",
+        "a": "IT professionals can explore the programme to understand aviation domain concepts and specialised product management practices. Eligibility should be verified with COEPD."
+      },
+      {
+        "q": "5. Can airline operations professionals learn Technical Product Management?",
+        "a": "Professionals with airline operations experience may find the programme relevant for developing knowledge of digital products and technology-related business processes."
+      },
+      {
+        "q": "6. Does the course include practical projects?",
+        "a": "Yes. The referenced training programme includes six aviation-focused capstone project simulations using Agile concepts."
+      },
+      {
+        "q": "7. Does the programme cover aviation regulations in the UAE?",
+        "a": "The curriculum includes high-level aviation standards and compliance awareness. It should not be represented as a dedicated UAE GCAA-approved qualification or specialised local regulatory certification without appropriate verification."
+      },
+      {
+        "q": "8. Do I need aviation industry experience before enrolling?",
+        "a": "The course includes foundational aviation topics. Learners without prior aviation industry experience can enquire about suitability, although the official admission requirements should be confirmed with COEPD."
+      },
+      {
+        "q": "9. Does COEPD provide an Aviation Product Management certificate?",
+        "a": "Applicants should confirm the exact completion certificate, issuing organisation and assessment conditions directly with COEPD. No external accreditation should be assumed without evidence."
+      },
+      {
+        "q": "10. What are the Aviation Product Management course fees in UAE?",
+        "a": "Contact COEPD for current tuition details in AED, applicable payment options and refund conditions."
+      },
+      {
+        "q": "11. Can I attend live online training while working full-time in Dubai or Abu Dhabi?",
+        "a": "The programme combines weekend live learning and weekday self-learning. Learners should confirm whether available class schedules are suitable for their working hours in the UAE."
+      },
+      {
+        "q": "12. Will COEPD guarantee an Aviation Product Manager job in UAE?",
+        "a": "No. Professional training does not guarantee employment, promotion, visa sponsorship or placement. Job outcomes depend on an individual's qualifications, experience, skills and employer requirements. ---"
+      }
+    ]
+  },
+  "qatar": {
+    "name": "Qatar",
+    "slug": "qatar",
+    "flag": "assets/flags/Qatar_flag.png",
+    "dial_code": "+974",
+    "currency": "QAR",
+    "indicative_comp": "Role-specific competitive packages",
+    "top_employers": "Qatar Airways, Hamad International Airport, Aviation IT",
+    "timezone": "Arabia Standard Time (AST / UTC+3)",
+    "batch_timing": "Weekend Live Online Sessions",
+    "hreflang": "en-QA",
+    "seo_title": "Aviation Product Management Course in Qatar | COEPD",
+    "meta_desc": "Explore COEPD's 5-month online Aviation Product Management course in Qatar. Learn airline technology, Agile delivery and 6 aviation capstone projects.",
+    "canonical_url": "https://aviation.coepd.co/qatar/",
+    "h1": "Online Aviation Product Management Course in Qatar",
+    "hero_eyebrow": "Specialized Aviation Product Management Training in Qatar",
+    "hero_intro": "Target audience IT professionals, Business Analysts, Product Managers, Software Engineers, aviation operations professionals and digital transformation specialists based in Qatar.",
+    "hero_takeaways": [
+      "Master technical product strategy, discovery, Agile delivery and product lifecycle management for aviation software.",
+      "Understand airline systems, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.",
+      "Complete six Agile capstone projects covering passenger journeys, flight operations, and cargo workflows.",
+      "Prepare for technical product manager, product owner, and aviation business analyst roles in Qatar and global markets."
+    ],
+    "why_learn_title": "Why Learn Aviation Product Management in Qatar?",
+    "why_learn_intro": "Qatar is an important international aviation hub, supported by airline operations, airport infrastructure, cargo activities and aviation-related technology services.\nThe country's aviation ecosystem includes Hamad International Airport, Qatar Airways and businesses involved in aviation services, logistics, technology and operational support.\nDigital technology plays an important role in enabling modern passenger journeys, operational coordination, information exchange and service management.\nProfessionals with technical, business analysis, project management or aviation operations experience may find value in understanding how digital products support these complex environments.",
+    "why_learn_points": [
+      {
+        "title": "Airline Digital Transformation",
+        "desc": "Explore how airlines use technology to support passenger services, reservation processes, operational information and business workflows."
+      },
+      {
+        "title": "Smart Airport Technology",
+        "desc": "Understand the role of digital platforms in airport information systems, operational visibility, passenger processes and coordination."
+      },
+      {
+        "title": "Air Cargo & Logistics Technology",
+        "desc": "Develop knowledge of digital cargo processes, Air Waybill documentation, electronic information exchange and shipment-related workflows."
+      },
+      {
+        "title": "Aviation Operations & Digital Platforms",
+        "desc": "Explore airline operations, departure control, flight-related information and the systems supporting operational coordination."
+      },
+      {
+        "title": "Aviation Product Strategy",
+        "desc": "Understand how business challenges are translated into product objectives, requirements, feature priorities and development activities."
+      },
+      {
+        "title": "Compliance-Aware Product Development",
+        "desc": "Gain awareness of industry standards, security considerations, data governance and regulatory requirements that influence aviation technology. **CTA: Explore the Aviation Product Management Curriculum** ---"
+      }
+    ],
+    "audience_title": "Who Should Enrol in This Aviation Product Management Course in Qatar?",
+    "audience_intro": "COEPD's Aviation Technical Product Manager programme is relevant to professionals interested in strengthening their product management knowledge within the aviation industry.",
+    "audience_points": [
+      {
+        "role": "IT Professionals & Software Engineers",
+        "desc": "Technology professionals who want to develop an understanding of aviation software systems, product requirements and technical product development."
+      },
+      {
+        "role": "Business Analysts & Systems Analysts",
+        "desc": "Professionals experienced in requirements gathering, workflow analysis or software projects who want to explore aviation-specific business and product processes."
+      },
+      {
+        "role": "Product Owners & Product Managers",
+        "desc": "Product professionals interested in gaining industry-specific knowledge of aviation technology and digital operations."
+      },
+      {
+        "role": "Aviation Operations Professionals",
+        "desc": "Individuals working in airline, airport, cargo or associated aviation functions who want to understand how software products support business and operational activities."
+      },
+      {
+        "role": "Project Managers & Technology Consultants",
+        "desc": "Professionals involved in technology delivery, stakeholder coordination or digital transformation initiatives who want to explore aviation product management practices."
+      },
+      {
+        "role": "Career Transitioners",
+        "desc": "Professionals considering aviation technology, product analysis or technical product management pathways who want structured domain-focused training. Admission suitability depends on existing qualifications, professional experience and individual learning objectives. **CTA: Check Your Aviation Training Eligibility** ---"
+      }
+    ],
+    "career_title": "Aviation Technology & Product Management Career Pathways in Qatar",
+    "career_intro": "Qatar's aviation ecosystem includes airlines, airport operations, air cargo businesses, software providers and organisations supporting aviation technology.\nSpecialised aviation domain and product management knowledge may be relevant to different technology and business functions.\nDepending on professional experience, qualifications and employer requirements, individuals may explore career pathways such as:",
+    "career_roles": [
+      {
+        "title": "Aviation Technical Product Manager",
+        "desc": "Supports product planning, technical requirements and the development of aviation digital products."
+      },
+      {
+        "title": "Airline Technology Product Manager",
+        "desc": "Works on technology products supporting airline business systems, passenger services or operational workflows."
+      },
+      {
+        "title": "Aviation Software Product Owner",
+        "desc": "Contributes to Agile product delivery, product backlog prioritisation and stakeholder collaboration."
+      },
+      {
+        "title": "Aviation Business Analyst",
+        "desc": "Works with airline processes, system requirements and business-to-technology communication."
+      },
+      {
+        "title": "Aviation Product Analyst",
+        "desc": "Supports product analysis, workflow understanding, user requirements and continuous improvement activities."
+      },
+      {
+        "title": "Aviation Digital Transformation Consultant",
+        "desc": "Contributes to technology-enabled operational improvements, process modernisation and digital product initiatives. Qatar Airways, Hamad International Airport and businesses supporting airline technology, aviation services and cargo operations are examples of the broader industry ecosystem. These organisations are included for industry context only and are not represented as COEPD recruitment partners. Employment depends on individual qualifications, experience, job availability, employer requirements and applicable Qatar work authorisation conditions. **CTA: Discuss Your Aviation Product Management Career Path** ---"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "1. What is an Aviation Product Management course?",
+        "a": "An Aviation Product Management course introduces product management principles within the aviation industry, including airline digital systems, operational workflows, product requirements, Agile development and product lifecycle management."
+      },
+      {
+        "q": "2. Is COEPD's Aviation Product Management programme available online in Qatar?",
+        "a": "The COEPD programme uses a live online format. Qatar-based learners can enquire about admission availability, eligibility and compatible session timings."
+      },
+      {
+        "q": "3. How long is the Aviation Technical Product Manager programme?",
+        "a": "The referenced COEPD programme has a duration of five months."
+      },
+      {
+        "q": "4. Can IT professionals in Doha learn Aviation Product Management?",
+        "a": "Yes. The curriculum introduces aviation domain and product management concepts relevant to IT professionals interested in expanding their specialist knowledge. Admission requirements should be confirmed with COEPD."
+      },
+      {
+        "q": "5. Can aviation operations professionals learn Technical Product Management?",
+        "a": "Aviation operations professionals may find the programme relevant if they want to understand how digital products support airline and airport business processes."
+      },
+      {
+        "q": "6. Does the training include practical projects?",
+        "a": "Yes. The programme includes six aviation-focused capstone simulations using Agile product development concepts."
+      },
+      {
+        "q": "7. Does the course cover Qatar Civil Aviation Authority regulations?",
+        "a": "The referenced syllabus includes high-level aviation regulatory and standards awareness. It should not be described as a Qatar Civil Aviation Authority-approved qualification or specialised QCAA regulatory training unless independently verified."
+      },
+      {
+        "q": "8. Is previous aviation industry experience required?",
+        "a": "The programme includes foundational aviation domain topics. Applicants without previous aviation experience should confirm the official eligibility requirements with COEPD."
+      },
+      {
+        "q": "9. Will I receive a certificate after completing the programme?",
+        "a": "Applicants should confirm the official certificate type, issuing institution and assessment requirements with COEPD. External recognition or accreditation should not be assumed."
+      },
+      {
+        "q": "10. What are the Aviation Product Management course fees in Qatar?",
+        "a": "Contact COEPD to request the latest tuition information in QAR, payment arrangements and refund conditions."
+      },
+      {
+        "q": "11. Can I attend online training while working full-time in Qatar?",
+        "a": "The programme includes weekend live sessions and weekday self-learning. Learners should confirm whether session timings and weekly study commitments are compatible with their work schedule."
+      },
+      {
+        "q": "12. Does COEPD guarantee an Aviation Product Manager job in Qatar?",
+        "a": "No. Completion of the programme does not guarantee employment, promotion, visa sponsorship or placement. Career outcomes depend on qualifications, work experience, employer requirements and available opportunities. ---"
+      }
+    ]
+  },
+  "germany": {
+    "name": "Germany",
+    "slug": "germany",
+    "flag": "assets/flags/Germany_flag.png",
+    "dial_code": "+49",
+    "currency": "EUR",
+    "indicative_comp": "€60,000–€120,000 per year",
+    "top_employers": "Airbus, Lufthansa Technik, Aviation Software Systems",
+    "timezone": "Central European Time (CET / UTC+1)",
+    "batch_timing": "Weekend Live Online Sessions",
+    "hreflang": "en-DE",
+    "seo_title": "Aviation Product Management Course Germany | COEPD",
+    "meta_desc": "Explore COEPD's 5-month online Aviation Product Management course for Germany-based professionals. Learn airline technology, Agile and 6 capstone projects.",
+    "canonical_url": "https://aviation.coepd.co/germany/",
+    "h1": "Online Aviation Product Management Course in Germany",
+    "hero_eyebrow": "Specialized Aviation Product Management Training in Germany",
+    "hero_intro": "Primary audience Germany-based software engineers, IT specialists, business analysts, product managers, aviation operations professionals and technical consultants.",
+    "hero_takeaways": [
+      "Master technical product strategy, discovery, Agile delivery and product lifecycle management for aviation software.",
+      "Understand airline systems, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.",
+      "Complete six Agile capstone projects covering passenger journeys, flight operations, and cargo workflows.",
+      "Prepare for technical product manager, product owner, and aviation business analyst roles in Germany and global markets."
+    ],
+    "why_learn_title": "Why Learn Aviation Product Management in Germany?",
+    "why_learn_intro": "Germany has an established aviation and aerospace ecosystem involving airlines, airports, aircraft maintenance organisations, aviation technology businesses, software providers and logistics operators.\nTechnology plays an important role in supporting aviation operations, aircraft-related digital services, airline systems, operational planning and information exchange.\nProfessionals with software development, business analysis, technology delivery or aviation operations experience may benefit from understanding how digital product management practices apply to these environments.",
+    "why_learn_points": [
+      {
+        "title": "Airline Technology & Digital Platforms",
+        "desc": "Explore how digital products support airline reservations, passenger services, operational workflows and information management."
+      },
+      {
+        "title": "Aviation Software Systems",
+        "desc": "Understand how aviation-specific applications support business requirements, technical workflows and operational decisions."
+      },
+      {
+        "title": "Digital Fleet & Maintenance Technology",
+        "desc": "Explore product management concepts relevant to digital fleet services, maintenance-related information systems and technology-enabled operational processes."
+      },
+      {
+        "title": "Aviation Cargo & Logistics Platforms",
+        "desc": "Learn about digital cargo processes, electronic Air Waybill concepts, documentation workflows and shipment information exchange."
+      },
+      {
+        "title": "Aviation Product Strategy & Agile Delivery",
+        "desc": "Understand how aviation business problems can be translated into product objectives, features, requirements and development priorities."
+      },
+      {
+        "title": "Aviation Standards & Compliance Awareness",
+        "desc": "Explore how regulatory considerations, industry standards, data governance and operational reliability can influence aviation technology products. **CTA: Explore the Aviation Product Management Curriculum** ---"
+      }
+    ],
+    "audience_title": "Who Should Enrol in This Aviation Product Management Course in Germany?",
+    "audience_intro": "The programme is relevant to professionals interested in combining product management competencies with aviation industry knowledge.",
+    "audience_points": [
+      {
+        "role": "Software Engineers & IT Professionals",
+        "desc": "Technology professionals who want to understand aviation software systems, product strategy, requirements and digital product development."
+      },
+      {
+        "role": "Business Analysts & Systems Analysts",
+        "desc": "Professionals experienced in analysing requirements, business workflows and technology projects who want to explore aviation-specific product management."
+      },
+      {
+        "role": "Product Owners & Product Managers",
+        "desc": "Product professionals interested in strengthening their understanding of aviation technology, operational processes and industry-specific product challenges."
+      },
+      {
+        "role": "Aviation Technology & Operations Professionals",
+        "desc": "Individuals familiar with airline operations, aviation software, aircraft-related business processes or cargo services who want to understand technical product management concepts."
+      },
+      {
+        "role": "Engineering & Digital Transformation Professionals",
+        "desc": "Professionals involved in engineering-related digital solutions, business transformation or technology delivery who want exposure to aviation product strategy and lifecycle management."
+      },
+      {
+        "role": "Career Transitioners",
+        "desc": "Individuals with relevant transferable skills who want to explore aviation product analysis, airline technology or technical product management pathways. Applicants should review the programme prerequisites and evaluate their education, experience and learning objectives before enrolling. **CTA: Check Your Programme Suitability** ---"
+      }
+    ],
+    "career_title": "Aviation Technology & Product Management Career Pathways in Germany",
+    "career_intro": "Germany's aviation ecosystem includes airlines, aviation software providers, airports, aircraft maintenance organisations, cargo operators and related technology businesses.\nTechnical product management and aviation domain knowledge may be relevant to several digital technology functions.\nDepending on professional experience, qualifications and employer requirements, individuals may explore career pathways such as:",
+    "career_roles": [
+      {
+        "title": "Aviation Technical Product Manager",
+        "desc": "Supports planning and development of aviation-focused digital products and technology solutions."
+      },
+      {
+        "title": "Airline Technology Product Manager",
+        "desc": "Works on product requirements and technology initiatives supporting airline systems and operational processes."
+      },
+      {
+        "title": "Aviation Software Product Owner",
+        "desc": "Contributes to Agile product development, backlog management and feature prioritisation."
+      },
+      {
+        "title": "Aviation Business Analyst",
+        "desc": "Supports aviation business process analysis, requirements gathering and communication between business and technical stakeholders."
+      },
+      {
+        "title": "Aviation Product Analyst",
+        "desc": "Works with product requirements, user needs, workflows and product improvement activities."
+      },
+      {
+        "title": "Aviation Digital Transformation Specialist",
+        "desc": "Contributes to initiatives involving digital technology, business process improvements and software adoption within aviation environments. Examples of organisations within Germany's aviation and technology ecosystem include Lufthansa Systems, Lufthansa Technik, Lufthansa Cargo, Fraport and aviation technology service providers. These organisations are mentioned for industry context only. They are not represented as COEPD recruitment partners or guaranteed employers. Employment opportunities depend on individual qualifications, professional experience, German or English language proficiency, employer requirements and applicable work authorisation. **CTA: Discuss Your Aviation Product Management Career Goals** ---"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "1. What is an Aviation Product Management course?",
+        "a": "An Aviation Product Management course introduces product management principles in the context of aviation businesses, including airline digital systems, operational processes, technical requirements, Agile development and product lifecycle management."
+      },
+      {
+        "q": "2. Is COEPD's Aviation Product Management programme available online in Germany?",
+        "a": "COEPD's referenced programme follows a live online training format. Germany-based applicants should confirm international enrolment availability, class timings and admission requirements."
+      },
+      {
+        "q": "3. What is the duration of the Aviation Technical Product Manager programme?",
+        "a": "The referenced COEPD Aviation Technical Product Manager programme has a duration of five months."
+      },
+      {
+        "q": "4. Can IT professionals in Germany learn Aviation Product Management?",
+        "a": "Yes. The programme introduces aviation domain and product management concepts that may be relevant to software engineers, IT professionals and technical specialists. Admission suitability should be confirmed with COEPD."
+      },
+      {
+        "q": "5. Is this programme suitable for Business Analysts and Product Owners?",
+        "a": "Business Analysts and Product Owners may find the programme relevant for developing aviation-specific knowledge of product requirements, workflows and technology systems."
+      },
+      {
+        "q": "6. Does the course include hands-on aviation projects?",
+        "a": "Yes. The programme includes six aviation-focused capstone simulations using Agile concepts and end-to-end product lifecycle thinking."
+      },
+      {
+        "q": "7. Does the programme provide EASA certification?",
+        "a": "The referenced curriculum includes high-level aviation standards and compliance awareness. It should not be represented as EASA-approved training or an EASA qualification unless COEPD provides supporting documentation."
+      },
+      {
+        "q": "8. Do I need previous aviation industry experience?",
+        "a": "The programme introduces foundational aviation topics. Applicants without aviation experience should confirm the official entry requirements and suitability with COEPD."
+      },
+      {
+        "q": "9. Is the course available in German?",
+        "a": "The language of instruction and the availability of German-language learning materials should be confirmed directly with COEPD before enrolling."
+      },
+      {
+        "q": "10. What are the Aviation Product Management course fees in Germany?",
+        "a": "Contact COEPD for current tuition fees in EUR, applicable taxes, payment conditions and refund information."
+      },
+      {
+        "q": "11. Can I attend the training while working full-time?",
+        "a": "The programme combines weekend live sessions and weekday self-learning. Learners should confirm that the schedule and expected workload are compatible with their professional commitments."
+      },
+      {
+        "q": "12. Does the training guarantee employment in Germany?",
+        "a": "No. Completing the programme does not guarantee employment, career progression, visa sponsorship or placement. Career outcomes depend on qualifications, experience, language skills, employer requirements and available opportunities. ---"
+      }
+    ]
+  },
+  "singapore": {
+    "name": "Singapore",
+    "slug": "singapore",
+    "flag": "assets/flags/Singapore_flag.png",
+    "dial_code": "+65",
+    "currency": "SGD",
+    "indicative_comp": "SGD 82,000–146,000 per year",
+    "top_employers": "Boeing, Singapore Airlines ecosystem, ST Engineering",
+    "timezone": "Singapore Standard Time (SGT / UTC+8)",
+    "batch_timing": "Weekend Live Online Sessions",
+    "hreflang": "en-SG",
+    "seo_title": "Aviation Product Management Course Singapore | COEPD",
+    "meta_desc": "Explore COEPD's 5-month online Aviation Product Management course in Singapore. Learn airline systems, Agile delivery and 6 aviation capstone projects.",
+    "canonical_url": "https://aviation.coepd.co/singapore/",
+    "h1": "Online Aviation Product Management Course in Singapore",
+    "hero_eyebrow": "Specialized Aviation Product Management Training in Singapore",
+    "hero_intro": "Target audience Singapore-based IT professionals, software engineers, business analysts, product managers, aviation operations specialists and digital transformation professionals.",
+    "hero_takeaways": [
+      "Master technical product strategy, discovery, Agile delivery and product lifecycle management for aviation software.",
+      "Understand airline systems, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.",
+      "Complete six Agile capstone projects covering passenger journeys, flight operations, and cargo workflows.",
+      "Prepare for technical product manager, product owner, and aviation business analyst roles in Singapore and global markets."
+    ],
+    "why_learn_title": "Why Learn Aviation Product Management in Singapore?",
+    "why_learn_intro": "Singapore is a major aviation hub in the Asia-Pacific region, supported by international airlines, airport infrastructure, aviation technology providers, aerospace businesses and air cargo operations.\nThe aviation ecosystem includes Singapore Changi Airport, Singapore Airlines, Scoot, ground handling providers, aviation software companies and businesses providing digital services to the industry.\nDigital transformation and technology innovation play an important role in supporting modern airline operations, passenger experiences, airport efficiency and aviation information management.\nProfessionals with experience in IT, business analysis, software development, product management or aviation operations can benefit from understanding how digital products are planned and developed in aviation environments.",
+    "why_learn_points": [
+      {
+        "title": "Airline Digital Transformation",
+        "desc": "Explore how digital platforms support airline reservations, passenger journeys, customer services and operational processes."
+      },
+      {
+        "title": "Smart Airport Technology",
+        "desc": "Understand how software platforms, airport information systems and digital operational tools support efficient airport processes."
+      },
+      {
+        "title": "Aviation Cargo & Logistics Technology",
+        "desc": "Explore digital cargo processes, electronic Air Waybill concepts, shipment documentation and aviation information exchange."
+      },
+      {
+        "title": "Airline Operations & Technology Systems",
+        "desc": "Understand key airline workflows, departure control concepts, operational visibility and the role of digital systems."
+      },
+      {
+        "title": "Aviation Product Strategy & Agile Delivery",
+        "desc": "Learn how business requirements are converted into product objectives, technical documentation and development priorities."
+      },
+      {
+        "title": "Aviation Data Governance & Compliance",
+        "desc": "Explore the importance of information security, industry standards, data protection and operational requirements in aviation technology. **CTA: Explore the Aviation Product Management Curriculum** ---"
+      }
+    ],
+    "audience_title": "Who Should Enrol in This Aviation Product Management Course in Singapore?",
+    "audience_intro": "COEPD's aviation training programme is relevant to professionals interested in developing specialised technical product management and aviation technology knowledge.",
+    "audience_points": [
+      {
+        "role": "Software Engineers & IT Professionals",
+        "desc": "Technology professionals interested in understanding aviation software systems, product development, technical requirements and product strategy."
+      },
+      {
+        "role": "Business Analysts & Systems Analysts",
+        "desc": "Professionals with experience in requirements gathering, business process analysis or digital systems who want to explore aviation-specific product management concepts."
+      },
+      {
+        "role": "Product Owners & Product Managers",
+        "desc": "Professionals interested in expanding their product management knowledge into airline technology, airport systems and aviation digital platforms."
+      },
+      {
+        "role": "Aviation & Airline Operations Professionals",
+        "desc": "Individuals working in aviation-related roles who want to understand how digital products support operational workflows and business processes."
+      },
+      {
+        "role": "Project Managers & Technology Consultants",
+        "desc": "Professionals involved in digital transformation, stakeholder management or technology delivery who want exposure to aviation product planning and Agile methods."
+      },
+      {
+        "role": "Career Transitioners",
+        "desc": "Individuals with transferable technical or business skills who want to explore aviation technology, product analysis and product management career pathways. Applicants should review course prerequisites and consider how the training aligns with their professional experience and career objectives. **CTA: Check Your Programme Suitability** ---"
+      }
+    ],
+    "career_title": "Aviation Technology & Product Management Career Pathways in Singapore",
+    "career_intro": "Singapore's aviation ecosystem includes airlines, airports, aviation software providers, air cargo companies, ground handling businesses and related technology organisations.\nTechnical product management and aviation domain knowledge may be relevant to roles across digital product development, business analysis and aviation technology.\nDepending on qualifications, professional experience and employer requirements, individuals may explore pathways such as:",
+    "career_roles": [
+      {
+        "title": "Aviation Technical Product Manager",
+        "desc": "Supports product planning, technical requirements and development activities for aviation-related digital products."
+      },
+      {
+        "title": "Airline Technology Product Manager",
+        "desc": "Works on digital products that support airline processes, passenger services and operational systems."
+      },
+      {
+        "title": "Aviation Software Product Owner",
+        "desc": "Contributes to Agile product development, backlog prioritisation and communication between technical and business teams."
+      },
+      {
+        "title": "Aviation Business Analyst",
+        "desc": "Works with aviation processes, business requirements and technology implementation teams."
+      },
+      {
+        "title": "Aviation Product Analyst",
+        "desc": "Supports product requirements, user research, workflow analysis and product improvement activities."
+      },
+      {
+        "title": "Aviation Digital Transformation Specialist",
+        "desc": "Contributes to aviation technology initiatives, process improvements and digital product adoption. Examples of organisations within Singapore's aviation ecosystem include Singapore Airlines, Scoot, Changi Airport Group, SATS, SIA Engineering Company and aviation technology providers. These are industry examples only and are not represented as COEPD recruitment partners or guaranteed employment destinations. Employment opportunities depend on relevant qualifications, professional experience, employer requirements and applicable Singapore work authorisation. **CTA: Discuss Your Aviation Product Management Career Goals** ---"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "1. What is an Aviation Product Management course?",
+        "a": "An Aviation Product Management course introduces product management concepts used in aviation-related digital products, including airline technology, operational workflows, product requirements, Agile delivery and product lifecycle management."
+      },
+      {
+        "q": "2. Is COEPD's Aviation Product Management programme available online in Singapore?",
+        "a": "COEPD's referenced programme uses live online training. Singapore-based applicants should confirm international enrolment availability, eligibility and suitable session timings."
+      },
+      {
+        "q": "3. What is the duration of the Aviation Technical Product Manager course?",
+        "a": "The programme follows a structured five-month learning journey."
+      },
+      {
+        "q": "4. Can IT professionals in Singapore learn Aviation Product Management?",
+        "a": "IT professionals can explore the programme to develop aviation domain knowledge and understand product management methods relevant to aviation technology."
+      },
+      {
+        "q": "5. Is this course suitable for Business Analysts and Product Owners?",
+        "a": "The curriculum may be relevant to Business Analysts and Product Owners who want to strengthen their understanding of aviation technology, product requirements and industry-specific workflows."
+      },
+      {
+        "q": "6. Does the training include aviation projects?",
+        "a": "Yes. The programme includes six aviation-focused capstone simulations using Agile product development concepts."
+      },
+      {
+        "q": "7. Does the programme provide CAAS-approved certification?",
+        "a": "The programme includes high-level aviation industry standards and compliance awareness. It should not be represented as a Civil Aviation Authority of Singapore (CAAS)-approved course or regulatory qualification unless COEPD provides documentary evidence."
+      },
+      {
+        "q": "8. Is previous aviation experience required?",
+        "a": "The programme introduces foundational aviation domain concepts. Applicants without aviation experience should confirm the official eligibility requirements with COEPD."
+      },
+      {
+        "q": "9. Will I receive a certificate after completing the programme?",
+        "a": "Applicants should confirm the official course completion certificate, issuing institution and assessment conditions directly with COEPD. External accreditation should not be assumed."
+      },
+      {
+        "q": "10. What are the Aviation Product Management course fees in Singapore?",
+        "a": "Contact COEPD for current tuition information in SGD, applicable payment arrangements and refund conditions."
+      },
+      {
+        "q": "11. Can I attend the programme while working full-time?",
+        "a": "The course combines weekend live online sessions with weekday self-learning. Learners should confirm the schedule and expected weekly commitment before enrolling."
+      },
+      {
+        "q": "12. Does COEPD guarantee an Aviation Product Manager job in Singapore?",
+        "a": "No. Completing the course does not guarantee employment, promotion, visa sponsorship or placement. Career outcomes depend on qualifications, professional experience, employer requirements and available opportunities. ---"
+      }
+    ]
+  },
+  "saudi-arabia": {
+    "name": "Saudi Arabia",
+    "slug": "saudi-arabia",
+    "flag": "",
+    "dial_code": "+966",
+    "currency": "SAR",
+    "indicative_comp": "SAR 18,000–35,000 per month, tax-free",
+    "top_employers": "Saudia, Riyadh Air, flynas, Red Sea Global",
+    "timezone": "Arabia Standard Time (AST / UTC+3)",
+    "batch_timing": "Weekend Live Online Sessions",
+    "hreflang": "en-SA",
+    "seo_title": "Aviation Product Management Course Saudi Arabia | COEPD",
+    "meta_desc": "Explore COEPD's 5-month online Aviation Product Management training for professionals in Saudi Arabia. Learn airline systems, Agile and 6 capstone projects.",
+    "canonical_url": "https://aviation.coepd.co/saudi-arabia/",
+    "h1": "Online Aviation Product Management Course in Saudi Arabia",
+    "hero_eyebrow": "Specialized Aviation Product Management Training in Saudi Arabia",
+    "hero_intro": "Build specialised product management knowledge for the aviation industry through COEPD's 5-month live online Aviation Technical Product Manager programme, designed for professionals in Saudi Arabia.",
+    "hero_takeaways": [
+      "Master technical product strategy, discovery, execution and lifecycle management for aviation software.",
+      "Understand airline systems, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.",
+      "Complete six Agile capstone projects covering passenger journeys, flight operations, and cargo workflows.",
+      "Prepare for product manager and aviation technology roles in Saudi Arabia and global aviation hubs."
+    ],
+    "why_learn_title": "Why Study Aviation Product Management in Saudi Arabia?",
+    "why_learn_intro": "Saudi Arabia is developing its aviation and transport ecosystem through airport investment, airline development, logistics initiatives and technology adoption.\nThese developments make aviation digital systems an important area for professionals interested in understanding product development and technology-led operations.\nAviation Product Management knowledge can be relevant to systems supporting passenger services, airport operations, airline workflows, cargo processing and operational information exchange.",
+    "why_learn_points": [
+      {
+        "title": "Aviation Digital Transformation and Product Innovation",
+        "desc": "Explore how product strategy, digital platforms and technology requirements support complex aviation businesses."
+      },
+      {
+        "title": "Airline and Airport Technology Systems",
+        "desc": "Understand the relationships between passenger processes, airline operations, airport information systems and software products."
+      },
+      {
+        "title": "Aviation Cargo and Logistics Technology",
+        "desc": "Develop knowledge of Air Waybill workflows, shipment information, digital documentation and related product requirements."
+      }
+    ],
+    "audience_title": "Who Should Enrol in Saudi Arabia?",
+    "audience_intro": "This programme may be relevant to Saudi Arabia-based IT professionals, software engineers, business analysts, product owners, aviation operations employees, technology consultants and professionals interested in aviation digital transformation.\n## H2: Aviation Technology Career Pathways in Saudi Arabia\nDepending on experience and employer requirements, relevant pathways to explore include Aviation Technical Product Manager, Airline Systems Business Analyst, Aviation Product Owner, Digital Product Analyst and Aviation Technology Consultant.\nSaudi Arabian Airlines (Saudia), Riyadh Air, airport operators and aviation technology providers are examples of the broader industry ecosystem, not COEPD placement partners.\n## H2: Online Aviation Product Management Training in Riyadh, Jeddah and Dammam\nEligible learners can enquire about COEPD's live online training format without needing to attend a physical training centre.\nBefore enrolling, confirm the availability of Saudi-compatible class timings, course fees in SAR, admission requirements and certificate details.",
+    "audience_points": [
+      {
+        "role": "Software Engineers & IT Professionals",
+        "desc": "Engineers looking to build specialized domain knowledge in airline, airport and cargo software."
+      },
+      {
+        "role": "Business Analysts",
+        "desc": "BAs transitioning into technical product management with industry-recognized frameworks."
+      },
+      {
+        "role": "Aviation Operations Professionals",
+        "desc": "Operational staff moving into airline digital transformation and technology product roles."
+      },
+      {
+        "role": "Product Owners & Managers",
+        "desc": "Product leaders seeking deep aviation domain specialization in IATA and ONE Record standards."
+      }
+    ],
+    "career_title": "Aviation Technology & Product Management Opportunities in Saudi Arabia",
+    "career_intro": "The aviation ecosystem in Saudi Arabia and international airline hubs offers growing demand for technical product managers, product owners and aviation digital transformation specialists.",
+    "career_roles": [
+      {
+        "title": "Aviation Technical Product Manager",
+        "desc": "Leads planning and technical delivery for aviation digital products and airline systems."
+      },
+      {
+        "title": "Airline Technology Product Manager",
+        "desc": "Oversees booking, departure control, turnaround and passenger digital applications."
+      },
+      {
+        "title": "Aviation Software Product Owner",
+        "desc": "Manages Agile backlogs, user stories and sprint delivery with engineering teams."
+      },
+      {
+        "title": "Aviation Digital Transformation Consultant",
+        "desc": "Advises airlines, airports and cargo operators on modern software platforms."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "1. Is COEPD's Aviation Product Management programme available online in Saudi Arabia?",
+        "a": "Yes. COEPD's 5-month Aviation Technical Product Manager training is conducted live online with interactive instructor-led weekend sessions and weekday self-study, accessible to professionals across Saudi Arabia."
+      },
+      {
+        "q": "2. What is the duration of the programme?",
+        "a": "The programme runs for five months structured into three learning pillars: Product Literacy Foundations, Aviation Product Knowledge, and Six Agile Aviation Capstone Projects."
+      },
+      {
+        "q": "3. Can IT professionals and Business Analysts in Saudi Arabia enroll?",
+        "a": "Yes. The curriculum is specifically designed for software engineers, IT specialists, business analysts, and aviation operations professionals who wish to transition or advance into aviation digital product management."
+      },
+      {
+        "q": "4. What aviation topics and standards are covered?",
+        "a": "The curriculum covers airline and cargo processes, reservation and departure control, flight turnaround, disruption management, Air Waybills (AWB/e-AWB), IATA standards, ONE Record, Cargo iQ, and aviation data governance."
+      },
+      {
+        "q": "5. Does the training include practical hands-on projects?",
+        "a": "Yes. Learners complete six portfolio-ready capstone projects using Agile methodologies, including problem discovery, product strategy roadmaps, backlog prioritization, technical PRDs, UX acceptance criteria, and go-to-market planning."
+      },
+      {
+        "q": "6. How are batch timings arranged for Saudi Arabia learners?",
+        "a": "Live online sessions are scheduled on weekends with convenient timings aligned to Arabia Standard Time (AST / UTC+3), complemented by weekday assignments and instructor reviews."
+      },
+      {
+        "q": "7. What are the course fees in SAR?",
+        "a": "Course tuition is available in SAR or equivalent international payment options. Please submit an enquiry to receive the current fee schedule, payment plans, and eligibility details."
+      },
+      {
+        "q": "8. How can I apply for the upcoming batch from Saudi Arabia?",
+        "a": "Submit your details using the admissions enquiry form on this page to receive the complete syllabus, upcoming batch calendar, and schedule an admissions consultation."
+      }
+    ]
+  },
+  "australia": {
+    "name": "Australia",
+    "slug": "australia",
+    "flag": "",
+    "dial_code": "+61",
+    "currency": "AUD",
+    "indicative_comp": "AUD 110,000–185,000 per year",
+    "top_employers": "Qantas, Virgin Australia, Sydney Airport, Aviation IT",
+    "timezone": "Australian Eastern Standard Time (AEST / UTC+10)",
+    "batch_timing": "Weekend Live Online Sessions",
+    "hreflang": "en-AU",
+    "seo_title": "Aviation Product Management Course Australia | COEPD",
+    "meta_desc": "Develop aviation product management skills with COEPD's 5-month live online programme for Australia. Explore airline technology and 6 Agile capstone projects.",
+    "canonical_url": "https://aviation.coepd.co/australia/",
+    "h1": "Online Aviation Product Management Course in Australia",
+    "hero_eyebrow": "Specialized Aviation Product Management Training in Australia",
+    "hero_intro": "Build specialised product management knowledge for the aviation industry through COEPD's 5-month live online Aviation Technical Product Manager programme, designed for professionals in Australia.",
+    "hero_takeaways": [
+      "Master technical product strategy, discovery, execution and lifecycle management for aviation software.",
+      "Understand airline systems, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.",
+      "Complete six Agile capstone projects covering passenger journeys, flight operations, and cargo workflows.",
+      "Prepare for product manager and aviation technology roles in Australia and global aviation hubs."
+    ],
+    "why_learn_title": "Why Study Aviation Product Management in Australia?",
+    "why_learn_intro": "Australia's aviation ecosystem includes domestic and international airlines, airports, aviation technology businesses, cargo operators and engineering-related services.\nDigital systems play an important role in airline planning, passenger services, flight-related information, airport coordination and operational performance.\nProfessionals with technical or analytical backgrounds can explore how product management concepts apply to aviation digital services and operational technologies.",
+    "why_learn_points": [
+      {
+        "title": "Airline Software and Digital Services",
+        "desc": "Understand how products support passenger journeys, reservation workflows and airline business processes."
+      },
+      {
+        "title": "Airport Operations and Digital Platforms",
+        "desc": "Explore airport information systems, operational workflows and technology-based coordination."
+      },
+      {
+        "title": "Aviation Product Strategy and Agile Delivery",
+        "desc": "Learn how product discovery, requirements, prioritisation and Agile methods can be applied to aviation business scenarios."
+      }
+    ],
+    "audience_title": "Who Should Enrol in Australia?",
+    "audience_intro": "Software engineers, product professionals, business analysts, IT consultants, aviation professionals and technology project managers interested in aviation product management.\n## H2: Aviation Product Management Career Pathways in Australia\nCareer areas worth researching include Airline Technology Product Manager, Technical Product Owner, Aviation Business Analyst, Product Analyst and Digital Transformation Specialist.\nQantas, Virgin Australia, airports and aviation technology suppliers are examples of the relevant industry ecosystem, not COEPD hiring partners.\n## H2: Aviation Product Management Training Across Australia\nThe live online format may be accessible to eligible learners across Australia, subject to suitable session availability.\nConfirm class times in the applicable Australian time zone, tuition in AUD, admission conditions and certificate details.",
+    "audience_points": [
+      {
+        "role": "Software Engineers & IT Professionals",
+        "desc": "Engineers looking to build specialized domain knowledge in airline, airport and cargo software."
+      },
+      {
+        "role": "Business Analysts",
+        "desc": "BAs transitioning into technical product management with industry-recognized frameworks."
+      },
+      {
+        "role": "Aviation Operations Professionals",
+        "desc": "Operational staff moving into airline digital transformation and technology product roles."
+      },
+      {
+        "role": "Product Owners & Managers",
+        "desc": "Product leaders seeking deep aviation domain specialization in IATA and ONE Record standards."
+      }
+    ],
+    "career_title": "Aviation Technology & Product Management Opportunities in Australia",
+    "career_intro": "The aviation ecosystem in Australia and international airline hubs offers growing demand for technical product managers, product owners and aviation digital transformation specialists.",
+    "career_roles": [
+      {
+        "title": "Aviation Technical Product Manager",
+        "desc": "Leads planning and technical delivery for aviation digital products and airline systems."
+      },
+      {
+        "title": "Airline Technology Product Manager",
+        "desc": "Oversees booking, departure control, turnaround and passenger digital applications."
+      },
+      {
+        "title": "Aviation Software Product Owner",
+        "desc": "Manages Agile backlogs, user stories and sprint delivery with engineering teams."
+      },
+      {
+        "title": "Aviation Digital Transformation Consultant",
+        "desc": "Advises airlines, airports and cargo operators on modern software platforms."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "1. Is COEPD's Aviation Product Management programme available online in Australia?",
+        "a": "Yes. COEPD's 5-month Aviation Technical Product Manager training is conducted live online with interactive instructor-led weekend sessions and weekday self-study, accessible to professionals across Australia."
+      },
+      {
+        "q": "2. What is the duration of the programme?",
+        "a": "The programme runs for five months structured into three learning pillars: Product Literacy Foundations, Aviation Product Knowledge, and Six Agile Aviation Capstone Projects."
+      },
+      {
+        "q": "3. Can IT professionals and Business Analysts in Australia enroll?",
+        "a": "Yes. The curriculum is specifically designed for software engineers, IT specialists, business analysts, and aviation operations professionals who wish to transition or advance into aviation digital product management."
+      },
+      {
+        "q": "4. What aviation topics and standards are covered?",
+        "a": "The curriculum covers airline and cargo processes, reservation and departure control, flight turnaround, disruption management, Air Waybills (AWB/e-AWB), IATA standards, ONE Record, Cargo iQ, and aviation data governance."
+      },
+      {
+        "q": "5. Does the training include practical hands-on projects?",
+        "a": "Yes. Learners complete six portfolio-ready capstone projects using Agile methodologies, including problem discovery, product strategy roadmaps, backlog prioritization, technical PRDs, UX acceptance criteria, and go-to-market planning."
+      },
+      {
+        "q": "6. How are batch timings arranged for Australia learners?",
+        "a": "Live online sessions are scheduled on weekends with convenient timings aligned to Australian Eastern Standard Time (AEST / UTC+10), complemented by weekday assignments and instructor reviews."
+      },
+      {
+        "q": "7. What are the course fees in AUD?",
+        "a": "Course tuition is available in AUD or equivalent international payment options. Please submit an enquiry to receive the current fee schedule, payment plans, and eligibility details."
+      },
+      {
+        "q": "8. How can I apply for the upcoming batch from Australia?",
+        "a": "Submit your details using the admissions enquiry form on this page to receive the complete syllabus, upcoming batch calendar, and schedule an admissions consultation."
+      }
+    ]
+  },
+  "canada": {
+    "name": "Canada",
+    "slug": "canada",
+    "flag": "",
+    "dial_code": "+1",
+    "currency": "CAD",
+    "indicative_comp": "CAD 95,000–165,000 per year",
+    "top_employers": "Air Canada, Bombardier, CAE, WestJet",
+    "timezone": "Eastern / Pacific Time (EST / PST)",
+    "batch_timing": "Weekend Live Online Sessions",
+    "hreflang": "en-CA",
+    "seo_title": "Aviation Product Management Course Canada | COEPD",
+    "meta_desc": "Explore online Aviation Product Management training in Canada. COEPD's 5-month programme covers airline technology, Agile and 6 capstone projects.",
+    "canonical_url": "https://aviation.coepd.co/canada/",
+    "h1": "Online Aviation Product Management Course in Canada",
+    "hero_eyebrow": "Specialized Aviation Product Management Training in Canada",
+    "hero_intro": "Build specialised product management knowledge for the aviation industry through COEPD's 5-month live online Aviation Technical Product Manager programme, designed for professionals in Canada.",
+    "hero_takeaways": [
+      "Master technical product strategy, discovery, execution and lifecycle management for aviation software.",
+      "Understand airline systems, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.",
+      "Complete six Agile capstone projects covering passenger journeys, flight operations, and cargo workflows.",
+      "Prepare for product manager and aviation technology roles in Canada and global aviation hubs."
+    ],
+    "why_learn_title": "Why Study Aviation Product Management in Canada?",
+    "why_learn_intro": "Canada's aviation ecosystem includes commercial airlines, airports, aerospace businesses, maintenance organisations, software providers and air cargo operators.\nTechnology is used across passenger service delivery, airline business operations, flight-related information systems, cargo workflows and aviation maintenance environments.\nAviation-focused product management knowledge can help technology professionals better understand the specialist requirements of aviation software products.",
+    "why_learn_points": [
+      {
+        "title": "Airline and Airport Technology",
+        "desc": "Understand how digital systems support aviation business functions, operational processes and information exchange."
+      },
+      {
+        "title": "Aviation Software Product Development",
+        "desc": "Explore how product requirements, user needs, software development and business objectives interact."
+      },
+      {
+        "title": "Product Management for Aviation Professionals",
+        "desc": "Build familiarity with product lifecycle concepts, technical requirements and Agile collaboration."
+      }
+    ],
+    "audience_title": "Who Should Enrol in Canada?",
+    "audience_intro": "Canada-based software engineers, product owners, business analysts, systems analysts, aviation professionals and technology consultants.\n## H2: Aviation Technology Career Pathways in Canada\nRelevant roles to research include Aviation Technical Product Manager, Airline Technology Product Owner, Aviation Software Business Analyst and Aviation Digital Product Analyst.\nAir Canada, WestJet, CAE and Canadian aviation technology businesses are industry examples, not COEPD employment partners.\n## H2: Online Aviation Product Management Training Across Canada\nCOEPD's live online format may suit eligible learners seeking remote professional development.\nApplicants should confirm class timings across Canadian time zones, CAD tuition, programme language, eligibility and certification details.",
+    "audience_points": [
+      {
+        "role": "Software Engineers & IT Professionals",
+        "desc": "Engineers looking to build specialized domain knowledge in airline, airport and cargo software."
+      },
+      {
+        "role": "Business Analysts",
+        "desc": "BAs transitioning into technical product management with industry-recognized frameworks."
+      },
+      {
+        "role": "Aviation Operations Professionals",
+        "desc": "Operational staff moving into airline digital transformation and technology product roles."
+      },
+      {
+        "role": "Product Owners & Managers",
+        "desc": "Product leaders seeking deep aviation domain specialization in IATA and ONE Record standards."
+      }
+    ],
+    "career_title": "Aviation Technology & Product Management Opportunities in Canada",
+    "career_intro": "The aviation ecosystem in Canada and international airline hubs offers growing demand for technical product managers, product owners and aviation digital transformation specialists.",
+    "career_roles": [
+      {
+        "title": "Aviation Technical Product Manager",
+        "desc": "Leads planning and technical delivery for aviation digital products and airline systems."
+      },
+      {
+        "title": "Airline Technology Product Manager",
+        "desc": "Oversees booking, departure control, turnaround and passenger digital applications."
+      },
+      {
+        "title": "Aviation Software Product Owner",
+        "desc": "Manages Agile backlogs, user stories and sprint delivery with engineering teams."
+      },
+      {
+        "title": "Aviation Digital Transformation Consultant",
+        "desc": "Advises airlines, airports and cargo operators on modern software platforms."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "1. Is COEPD's Aviation Product Management programme available online in Canada?",
+        "a": "Yes. COEPD's 5-month Aviation Technical Product Manager training is conducted live online with interactive instructor-led weekend sessions and weekday self-study, accessible to professionals across Canada."
+      },
+      {
+        "q": "2. What is the duration of the programme?",
+        "a": "The programme runs for five months structured into three learning pillars: Product Literacy Foundations, Aviation Product Knowledge, and Six Agile Aviation Capstone Projects."
+      },
+      {
+        "q": "3. Can IT professionals and Business Analysts in Canada enroll?",
+        "a": "Yes. The curriculum is specifically designed for software engineers, IT specialists, business analysts, and aviation operations professionals who wish to transition or advance into aviation digital product management."
+      },
+      {
+        "q": "4. What aviation topics and standards are covered?",
+        "a": "The curriculum covers airline and cargo processes, reservation and departure control, flight turnaround, disruption management, Air Waybills (AWB/e-AWB), IATA standards, ONE Record, Cargo iQ, and aviation data governance."
+      },
+      {
+        "q": "5. Does the training include practical hands-on projects?",
+        "a": "Yes. Learners complete six portfolio-ready capstone projects using Agile methodologies, including problem discovery, product strategy roadmaps, backlog prioritization, technical PRDs, UX acceptance criteria, and go-to-market planning."
+      },
+      {
+        "q": "6. How are batch timings arranged for Canada learners?",
+        "a": "Live online sessions are scheduled on weekends with convenient timings aligned to Eastern / Pacific Time (EST / PST), complemented by weekday assignments and instructor reviews."
+      },
+      {
+        "q": "7. What are the course fees in CAD?",
+        "a": "Course tuition is available in CAD or equivalent international payment options. Please submit an enquiry to receive the current fee schedule, payment plans, and eligibility details."
+      },
+      {
+        "q": "8. How can I apply for the upcoming batch from Canada?",
+        "a": "Submit your details using the admissions enquiry form on this page to receive the complete syllabus, upcoming batch calendar, and schedule an admissions consultation."
+      }
+    ]
+  },
+  "malaysia": {
+    "name": "Malaysia",
+    "slug": "malaysia",
+    "flag": "",
+    "dial_code": "+60",
+    "currency": "MYR",
+    "indicative_comp": "MYR 7,000–15,000 per month",
+    "top_employers": "AirAsia (Capital A), Malaysia Airlines, Malaysia Airports",
+    "timezone": "Malaysia Time (MYT / UTC+8)",
+    "batch_timing": "Weekend Live Online Sessions",
+    "hreflang": "en-MY",
+    "seo_title": "Aviation Product Management Course Malaysia | COEPD",
+    "meta_desc": "Explore COEPD's online Aviation Product Management course in Malaysia. Develop airline technology skills through 5 months and 6 Agile capstone projects.",
+    "canonical_url": "https://aviation.coepd.co/malaysia/",
+    "h1": "Online Aviation Product Management Course in Malaysia",
+    "hero_eyebrow": "Specialized Aviation Product Management Training in Malaysia",
+    "hero_intro": "Build specialised product management knowledge for the aviation industry through COEPD's 5-month live online Aviation Technical Product Manager programme, designed for professionals in Malaysia.",
+    "hero_takeaways": [
+      "Master technical product strategy, discovery, execution and lifecycle management for aviation software.",
+      "Understand airline systems, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.",
+      "Complete six Agile capstone projects covering passenger journeys, flight operations, and cargo workflows.",
+      "Prepare for product manager and aviation technology roles in Malaysia and global aviation hubs."
+    ],
+    "why_learn_title": "Why Study Aviation Product Management in Malaysia?",
+    "why_learn_intro": "Malaysia's aviation sector includes airlines, airport operators, cargo businesses, aviation engineering services and supporting technology companies.\nDigital platforms are important for passenger services, operational coordination, airline information systems and cargo processes.\nProfessionals interested in aviation technology can explore how product management methods help define, prioritise and improve industry-specific digital solutions.",
+    "why_learn_points": [
+      {
+        "title": "Airline Digital Platforms",
+        "desc": "Explore reservation processes, passenger workflows and the role of software in airline operations."
+      },
+      {
+        "title": "Airport Technology and Operations",
+        "desc": "Understand how technology systems support airport information management and operational coordination."
+      },
+      {
+        "title": "Air Cargo Digitalisation",
+        "desc": "Develop knowledge of Air Waybill systems, electronic documentation and digital shipment information."
+      }
+    ],
+    "audience_title": "Who Should Enrol in Malaysia?",
+    "audience_intro": "IT professionals, business analysts, software developers, product managers, aviation operations specialists and technology consultants based in Malaysia.\n## H2: Aviation Product Management Career Pathways in Malaysia\nRelevant career areas to research include Airline Technology Product Manager, Aviation Business Analyst, Software Product Owner and Aviation Product Analyst.\nMalaysia Airlines, AirAsia, Malaysia Airports and related aviation technology providers are industry examples, not COEPD placement partners.\n## H2: Online Aviation Training in Kuala Lumpur and Across Malaysia\nThe programme uses a live online learning format and combines weekend sessions with weekday self-learning.\nConfirm suitable Malaysia Time (MYT) class schedules, fees in MYR, admission requirements and certificate details before enrolling.",
+    "audience_points": [
+      {
+        "role": "Software Engineers & IT Professionals",
+        "desc": "Engineers looking to build specialized domain knowledge in airline, airport and cargo software."
+      },
+      {
+        "role": "Business Analysts",
+        "desc": "BAs transitioning into technical product management with industry-recognized frameworks."
+      },
+      {
+        "role": "Aviation Operations Professionals",
+        "desc": "Operational staff moving into airline digital transformation and technology product roles."
+      },
+      {
+        "role": "Product Owners & Managers",
+        "desc": "Product leaders seeking deep aviation domain specialization in IATA and ONE Record standards."
+      }
+    ],
+    "career_title": "Aviation Technology & Product Management Opportunities in Malaysia",
+    "career_intro": "The aviation ecosystem in Malaysia and international airline hubs offers growing demand for technical product managers, product owners and aviation digital transformation specialists.",
+    "career_roles": [
+      {
+        "title": "Aviation Technical Product Manager",
+        "desc": "Leads planning and technical delivery for aviation digital products and airline systems."
+      },
+      {
+        "title": "Airline Technology Product Manager",
+        "desc": "Oversees booking, departure control, turnaround and passenger digital applications."
+      },
+      {
+        "title": "Aviation Software Product Owner",
+        "desc": "Manages Agile backlogs, user stories and sprint delivery with engineering teams."
+      },
+      {
+        "title": "Aviation Digital Transformation Consultant",
+        "desc": "Advises airlines, airports and cargo operators on modern software platforms."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "1. Is COEPD's Aviation Product Management programme available online in Malaysia?",
+        "a": "Yes. COEPD's 5-month Aviation Technical Product Manager training is conducted live online with interactive instructor-led weekend sessions and weekday self-study, accessible to professionals across Malaysia."
+      },
+      {
+        "q": "2. What is the duration of the programme?",
+        "a": "The programme runs for five months structured into three learning pillars: Product Literacy Foundations, Aviation Product Knowledge, and Six Agile Aviation Capstone Projects."
+      },
+      {
+        "q": "3. Can IT professionals and Business Analysts in Malaysia enroll?",
+        "a": "Yes. The curriculum is specifically designed for software engineers, IT specialists, business analysts, and aviation operations professionals who wish to transition or advance into aviation digital product management."
+      },
+      {
+        "q": "4. What aviation topics and standards are covered?",
+        "a": "The curriculum covers airline and cargo processes, reservation and departure control, flight turnaround, disruption management, Air Waybills (AWB/e-AWB), IATA standards, ONE Record, Cargo iQ, and aviation data governance."
+      },
+      {
+        "q": "5. Does the training include practical hands-on projects?",
+        "a": "Yes. Learners complete six portfolio-ready capstone projects using Agile methodologies, including problem discovery, product strategy roadmaps, backlog prioritization, technical PRDs, UX acceptance criteria, and go-to-market planning."
+      },
+      {
+        "q": "6. How are batch timings arranged for Malaysia learners?",
+        "a": "Live online sessions are scheduled on weekends with convenient timings aligned to Malaysia Time (MYT / UTC+8), complemented by weekday assignments and instructor reviews."
+      },
+      {
+        "q": "7. What are the course fees in MYR?",
+        "a": "Course tuition is available in MYR or equivalent international payment options. Please submit an enquiry to receive the current fee schedule, payment plans, and eligibility details."
+      },
+      {
+        "q": "8. How can I apply for the upcoming batch from Malaysia?",
+        "a": "Submit your details using the admissions enquiry form on this page to receive the complete syllabus, upcoming batch calendar, and schedule an admissions consultation."
+      }
+    ]
+  },
+  "netherlands": {
+    "name": "Netherlands",
+    "slug": "netherlands",
+    "flag": "",
+    "dial_code": "+31",
+    "currency": "EUR",
+    "indicative_comp": "€65,000–€115,000 per year",
+    "top_employers": "KLM Royal Dutch Airlines, Schiphol Group, Aviation Software",
+    "timezone": "Central European Time (CET / UTC+1)",
+    "batch_timing": "Weekend Live Online Sessions",
+    "hreflang": "en-NL",
+    "seo_title": "Aviation Product Management Course Netherlands | COEPD",
+    "meta_desc": "Explore COEPD's 5-month online Aviation Product Management course for professionals in the Netherlands. Learn airline systems, Agile and aviation projects.",
+    "canonical_url": "https://aviation.coepd.co/netherlands/",
+    "h1": "Online Aviation Product Management Course in the Netherlands",
+    "hero_eyebrow": "Specialized Aviation Product Management Training in Netherlands",
+    "hero_intro": "Build specialised product management knowledge for the aviation industry through COEPD's 5-month live online Aviation Technical Product Manager programme, designed for professionals in Netherlands.",
+    "hero_takeaways": [
+      "Master technical product strategy, discovery, execution and lifecycle management for aviation software.",
+      "Understand airline systems, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.",
+      "Complete six Agile capstone projects covering passenger journeys, flight operations, and cargo workflows.",
+      "Prepare for product manager and aviation technology roles in Netherlands and global aviation hubs."
+    ],
+    "why_learn_title": "Why Study Aviation Product Management in Netherlands?",
+    "why_learn_intro": "The Netherlands has an established aviation and logistics ecosystem supported by international air transport, airport operations, cargo activities and aviation technology services.\nThe interaction between airline systems, airport operations and cargo information makes the sector an interesting environment for digital product development.",
+    "why_learn_points": [
+      {
+        "title": "Airport Operations and Technology",
+        "desc": "Explore how digital platforms support operational information, coordination and passenger-facing services."
+      },
+      {
+        "title": "Airline and Cargo Digital Products",
+        "desc": "Understand airline technology processes, electronic cargo documentation and information exchange."
+      },
+      {
+        "title": "Agile Product Development",
+        "desc": "Explore technical requirements, product roadmaps, stakeholder collaboration and iterative product delivery."
+      }
+    ],
+    "audience_title": "Who Should Enrol in Netherlands?",
+    "audience_intro": "Software engineers, IT professionals, business analysts, product managers, logistics technology specialists and aviation operations professionals.\n## H2: Aviation Product Management Career Pathways\nRelevant job functions to research include Aviation Product Owner, Airline IT Business Analyst, Aviation Technical Product Manager and Digital Product Analyst.\nKLM, Schiphol-related aviation businesses and aviation software providers illustrate the industry ecosystem, not COEPD partnerships.\n## H2: Live Online Training for Netherlands-Based Professionals\nApplicants should confirm suitable CET/CEST schedules, EUR tuition, language of instruction, eligibility and certificate information.",
+    "audience_points": [
+      {
+        "role": "Software Engineers & IT Professionals",
+        "desc": "Engineers looking to build specialized domain knowledge in airline, airport and cargo software."
+      },
+      {
+        "role": "Business Analysts",
+        "desc": "BAs transitioning into technical product management with industry-recognized frameworks."
+      },
+      {
+        "role": "Aviation Operations Professionals",
+        "desc": "Operational staff moving into airline digital transformation and technology product roles."
+      },
+      {
+        "role": "Product Owners & Managers",
+        "desc": "Product leaders seeking deep aviation domain specialization in IATA and ONE Record standards."
+      }
+    ],
+    "career_title": "Aviation Technology & Product Management Opportunities in Netherlands",
+    "career_intro": "The aviation ecosystem in Netherlands and international airline hubs offers growing demand for technical product managers, product owners and aviation digital transformation specialists.",
+    "career_roles": [
+      {
+        "title": "Aviation Technical Product Manager",
+        "desc": "Leads planning and technical delivery for aviation digital products and airline systems."
+      },
+      {
+        "title": "Airline Technology Product Manager",
+        "desc": "Oversees booking, departure control, turnaround and passenger digital applications."
+      },
+      {
+        "title": "Aviation Software Product Owner",
+        "desc": "Manages Agile backlogs, user stories and sprint delivery with engineering teams."
+      },
+      {
+        "title": "Aviation Digital Transformation Consultant",
+        "desc": "Advises airlines, airports and cargo operators on modern software platforms."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "1. Is COEPD's Aviation Product Management programme available online in Netherlands?",
+        "a": "Yes. COEPD's 5-month Aviation Technical Product Manager training is conducted live online with interactive instructor-led weekend sessions and weekday self-study, accessible to professionals across Netherlands."
+      },
+      {
+        "q": "2. What is the duration of the programme?",
+        "a": "The programme runs for five months structured into three learning pillars: Product Literacy Foundations, Aviation Product Knowledge, and Six Agile Aviation Capstone Projects."
+      },
+      {
+        "q": "3. Can IT professionals and Business Analysts in Netherlands enroll?",
+        "a": "Yes. The curriculum is specifically designed for software engineers, IT specialists, business analysts, and aviation operations professionals who wish to transition or advance into aviation digital product management."
+      },
+      {
+        "q": "4. What aviation topics and standards are covered?",
+        "a": "The curriculum covers airline and cargo processes, reservation and departure control, flight turnaround, disruption management, Air Waybills (AWB/e-AWB), IATA standards, ONE Record, Cargo iQ, and aviation data governance."
+      },
+      {
+        "q": "5. Does the training include practical hands-on projects?",
+        "a": "Yes. Learners complete six portfolio-ready capstone projects using Agile methodologies, including problem discovery, product strategy roadmaps, backlog prioritization, technical PRDs, UX acceptance criteria, and go-to-market planning."
+      },
+      {
+        "q": "6. How are batch timings arranged for Netherlands learners?",
+        "a": "Live online sessions are scheduled on weekends with convenient timings aligned to Central European Time (CET / UTC+1), complemented by weekday assignments and instructor reviews."
+      },
+      {
+        "q": "7. What are the course fees in EUR?",
+        "a": "Course tuition is available in EUR or equivalent international payment options. Please submit an enquiry to receive the current fee schedule, payment plans, and eligibility details."
+      },
+      {
+        "q": "8. How can I apply for the upcoming batch from Netherlands?",
+        "a": "Submit your details using the admissions enquiry form on this page to receive the complete syllabus, upcoming batch calendar, and schedule an admissions consultation."
+      }
+    ]
+  },
+  "france": {
+    "name": "France",
+    "slug": "france",
+    "flag": "",
+    "dial_code": "+33",
+    "currency": "EUR",
+    "indicative_comp": "€55,000–€110,000 per year",
+    "top_employers": "Airbus, Air France-KLM, Thales, Amadeus France",
+    "timezone": "Central European Time (CET / UTC+1)",
+    "batch_timing": "Weekend Live Online Sessions",
+    "hreflang": "en-FR",
+    "seo_title": "Aviation Product Management Course France | COEPD",
+    "meta_desc": "Explore COEPD's 5-month online Aviation Product Management training for France-based professionals. Learn airline technology and 6 Agile capstone projects.",
+    "canonical_url": "https://aviation.coepd.co/france/",
+    "h1": "Online Aviation Product Management Course in France",
+    "hero_eyebrow": "Specialized Aviation Product Management Training in France",
+    "hero_intro": "Build specialised product management knowledge for the aviation industry through COEPD's 5-month live online Aviation Technical Product Manager programme, designed for professionals in France.",
+    "hero_takeaways": [
+      "Master technical product strategy, discovery, execution and lifecycle management for aviation software.",
+      "Understand airline systems, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.",
+      "Complete six Agile capstone projects covering passenger journeys, flight operations, and cargo workflows.",
+      "Prepare for product manager and aviation technology roles in France and global aviation hubs."
+    ],
+    "why_learn_title": "Why Study Aviation Product Management in France?",
+    "why_learn_intro": "France has a substantial aviation and aerospace ecosystem involving airlines, aircraft manufacturers, airports, engineering organisations and technology providers.\nThis ecosystem creates a rich context for understanding software products, operational data, technical requirements and digital transformation.",
+    "why_learn_points": [
+      {
+        "title": "Aviation Software and Digital Platforms",
+        "desc": "Understand how digital products support airline workflows, operational systems and aviation business information."
+      },
+      {
+        "title": "Aerospace-Related Digital Product Thinking",
+        "desc": "Explore general product concepts relevant to technical services, aviation data and engineering-related software applications."
+      },
+      {
+        "title": "Aviation Product Lifecycle and Agile Methods",
+        "desc": "Learn how product requirements, planning and stakeholder communication support technology delivery."
+      }
+    ],
+    "audience_title": "Who Should Enrol in France?",
+    "audience_intro": "Software engineers, business analysts, product owners, IT consultants, aviation professionals and technology project managers.\n## H2: Aviation Technology Career Pathways in France\nRelevant pathways to research include Aviation Technical Product Manager, Aviation Software Product Owner, Airline Business Analyst and Digital Product Specialist.\nAir France, Airbus, airports and technology providers are examples of the broader aviation ecosystem, not COEPD recruitment partners.\n## H2: Aviation Product Management Training Across France\nConfirm the programme's language of instruction, suitable CET/CEST session times, fees in EUR, entry requirements and certificate details.",
+    "audience_points": [
+      {
+        "role": "Software Engineers & IT Professionals",
+        "desc": "Engineers looking to build specialized domain knowledge in airline, airport and cargo software."
+      },
+      {
+        "role": "Business Analysts",
+        "desc": "BAs transitioning into technical product management with industry-recognized frameworks."
+      },
+      {
+        "role": "Aviation Operations Professionals",
+        "desc": "Operational staff moving into airline digital transformation and technology product roles."
+      },
+      {
+        "role": "Product Owners & Managers",
+        "desc": "Product leaders seeking deep aviation domain specialization in IATA and ONE Record standards."
+      }
+    ],
+    "career_title": "Aviation Technology & Product Management Opportunities in France",
+    "career_intro": "The aviation ecosystem in France and international airline hubs offers growing demand for technical product managers, product owners and aviation digital transformation specialists.",
+    "career_roles": [
+      {
+        "title": "Aviation Technical Product Manager",
+        "desc": "Leads planning and technical delivery for aviation digital products and airline systems."
+      },
+      {
+        "title": "Airline Technology Product Manager",
+        "desc": "Oversees booking, departure control, turnaround and passenger digital applications."
+      },
+      {
+        "title": "Aviation Software Product Owner",
+        "desc": "Manages Agile backlogs, user stories and sprint delivery with engineering teams."
+      },
+      {
+        "title": "Aviation Digital Transformation Consultant",
+        "desc": "Advises airlines, airports and cargo operators on modern software platforms."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "1. Is COEPD's Aviation Product Management programme available online in France?",
+        "a": "Yes. COEPD's 5-month Aviation Technical Product Manager training is conducted live online with interactive instructor-led weekend sessions and weekday self-study, accessible to professionals across France."
+      },
+      {
+        "q": "2. What is the duration of the programme?",
+        "a": "The programme runs for five months structured into three learning pillars: Product Literacy Foundations, Aviation Product Knowledge, and Six Agile Aviation Capstone Projects."
+      },
+      {
+        "q": "3. Can IT professionals and Business Analysts in France enroll?",
+        "a": "Yes. The curriculum is specifically designed for software engineers, IT specialists, business analysts, and aviation operations professionals who wish to transition or advance into aviation digital product management."
+      },
+      {
+        "q": "4. What aviation topics and standards are covered?",
+        "a": "The curriculum covers airline and cargo processes, reservation and departure control, flight turnaround, disruption management, Air Waybills (AWB/e-AWB), IATA standards, ONE Record, Cargo iQ, and aviation data governance."
+      },
+      {
+        "q": "5. Does the training include practical hands-on projects?",
+        "a": "Yes. Learners complete six portfolio-ready capstone projects using Agile methodologies, including problem discovery, product strategy roadmaps, backlog prioritization, technical PRDs, UX acceptance criteria, and go-to-market planning."
+      },
+      {
+        "q": "6. How are batch timings arranged for France learners?",
+        "a": "Live online sessions are scheduled on weekends with convenient timings aligned to Central European Time (CET / UTC+1), complemented by weekday assignments and instructor reviews."
+      },
+      {
+        "q": "7. What are the course fees in EUR?",
+        "a": "Course tuition is available in EUR or equivalent international payment options. Please submit an enquiry to receive the current fee schedule, payment plans, and eligibility details."
+      },
+      {
+        "q": "8. How can I apply for the upcoming batch from France?",
+        "a": "Submit your details using the admissions enquiry form on this page to receive the complete syllabus, upcoming batch calendar, and schedule an admissions consultation."
+      }
+    ]
+  },
+  "ireland": {
+    "name": "Ireland",
+    "slug": "ireland",
+    "flag": "",
+    "dial_code": "+353",
+    "currency": "EUR",
+    "indicative_comp": "€60,000–€110,000 per year",
+    "top_employers": "Ryanair, Aer Lingus, Aircraft Leasing Ecosystem",
+    "timezone": "Irish Standard Time / GMT (UTC+0/+1)",
+    "batch_timing": "Weekend Live Online Sessions",
+    "hreflang": "en-IE",
+    "seo_title": "Aviation Product Management Course Ireland | COEPD",
+    "meta_desc": "Explore online Aviation Product Management training for Ireland-based professionals. COEPD's 5-month programme includes Agile and 6 aviation projects.",
+    "canonical_url": "https://aviation.coepd.co/ireland/",
+    "h1": "Online Aviation Product Management Course in Ireland",
+    "hero_eyebrow": "Specialized Aviation Product Management Training in Ireland",
+    "hero_intro": "Build specialised product management knowledge for the aviation industry through COEPD's 5-month live online Aviation Technical Product Manager programme, designed for professionals in Ireland.",
+    "hero_takeaways": [
+      "Master technical product strategy, discovery, execution and lifecycle management for aviation software.",
+      "Understand airline systems, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.",
+      "Complete six Agile capstone projects covering passenger journeys, flight operations, and cargo workflows.",
+      "Prepare for product manager and aviation technology roles in Ireland and global aviation hubs."
+    ],
+    "why_learn_title": "Why Study Aviation Product Management in Ireland?",
+    "why_learn_intro": "Ireland is associated with international aviation operations, aircraft leasing, airline businesses and aviation-related financial and technology services.\nAviation professionals and technical specialists can benefit from understanding how product management methods apply to digital systems supporting complex industry workflows.",
+    "why_learn_points": [
+      {
+        "title": "Airline Software and Digital Operations",
+        "desc": "Explore passenger-related systems, airline business processes and digital product requirements."
+      },
+      {
+        "title": "Aviation Technology and Data Workflows",
+        "desc": "Understand information systems, stakeholder requirements and operational data considerations."
+      },
+      {
+        "title": "Agile Product Delivery",
+        "desc": "Learn how product planning, technical requirements and Agile methods connect."
+      }
+    ],
+    "audience_title": "Who Should Enrol in Ireland?",
+    "audience_intro": "IT professionals, product managers, business analysts, aviation operations employees and technology consultants.\n## H2: Aviation Product Management Career Pathways in Ireland\nExplore roles such as Aviation Business Analyst, Airline Technology Product Owner, Aviation Product Analyst and Technical Product Manager.\nAer Lingus, Ryanair and aviation service providers are examples of the broader industry ecosystem, not COEPD placement partners.\n## H2: Live Online Aviation Product Management Training in Ireland\nConfirm Irish local-time class schedules (GMT/IST, seasonally), EUR tuition, eligibility and certification details.",
+    "audience_points": [
+      {
+        "role": "Software Engineers & IT Professionals",
+        "desc": "Engineers looking to build specialized domain knowledge in airline, airport and cargo software."
+      },
+      {
+        "role": "Business Analysts",
+        "desc": "BAs transitioning into technical product management with industry-recognized frameworks."
+      },
+      {
+        "role": "Aviation Operations Professionals",
+        "desc": "Operational staff moving into airline digital transformation and technology product roles."
+      },
+      {
+        "role": "Product Owners & Managers",
+        "desc": "Product leaders seeking deep aviation domain specialization in IATA and ONE Record standards."
+      }
+    ],
+    "career_title": "Aviation Technology & Product Management Opportunities in Ireland",
+    "career_intro": "The aviation ecosystem in Ireland and international airline hubs offers growing demand for technical product managers, product owners and aviation digital transformation specialists.",
+    "career_roles": [
+      {
+        "title": "Aviation Technical Product Manager",
+        "desc": "Leads planning and technical delivery for aviation digital products and airline systems."
+      },
+      {
+        "title": "Airline Technology Product Manager",
+        "desc": "Oversees booking, departure control, turnaround and passenger digital applications."
+      },
+      {
+        "title": "Aviation Software Product Owner",
+        "desc": "Manages Agile backlogs, user stories and sprint delivery with engineering teams."
+      },
+      {
+        "title": "Aviation Digital Transformation Consultant",
+        "desc": "Advises airlines, airports and cargo operators on modern software platforms."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "1. Is COEPD's Aviation Product Management programme available online in Ireland?",
+        "a": "Yes. COEPD's 5-month Aviation Technical Product Manager training is conducted live online with interactive instructor-led weekend sessions and weekday self-study, accessible to professionals across Ireland."
+      },
+      {
+        "q": "2. What is the duration of the programme?",
+        "a": "The programme runs for five months structured into three learning pillars: Product Literacy Foundations, Aviation Product Knowledge, and Six Agile Aviation Capstone Projects."
+      },
+      {
+        "q": "3. Can IT professionals and Business Analysts in Ireland enroll?",
+        "a": "Yes. The curriculum is specifically designed for software engineers, IT specialists, business analysts, and aviation operations professionals who wish to transition or advance into aviation digital product management."
+      },
+      {
+        "q": "4. What aviation topics and standards are covered?",
+        "a": "The curriculum covers airline and cargo processes, reservation and departure control, flight turnaround, disruption management, Air Waybills (AWB/e-AWB), IATA standards, ONE Record, Cargo iQ, and aviation data governance."
+      },
+      {
+        "q": "5. Does the training include practical hands-on projects?",
+        "a": "Yes. Learners complete six portfolio-ready capstone projects using Agile methodologies, including problem discovery, product strategy roadmaps, backlog prioritization, technical PRDs, UX acceptance criteria, and go-to-market planning."
+      },
+      {
+        "q": "6. How are batch timings arranged for Ireland learners?",
+        "a": "Live online sessions are scheduled on weekends with convenient timings aligned to Irish Standard Time / GMT (UTC+0/+1), complemented by weekday assignments and instructor reviews."
+      },
+      {
+        "q": "7. What are the course fees in EUR?",
+        "a": "Course tuition is available in EUR or equivalent international payment options. Please submit an enquiry to receive the current fee schedule, payment plans, and eligibility details."
+      },
+      {
+        "q": "8. How can I apply for the upcoming batch from Ireland?",
+        "a": "Submit your details using the admissions enquiry form on this page to receive the complete syllabus, upcoming batch calendar, and schedule an admissions consultation."
+      }
+    ]
+  },
+  "oman": {
+    "name": "Oman",
+    "slug": "oman",
+    "flag": "",
+    "dial_code": "+968",
+    "currency": "OMR",
+    "indicative_comp": "OMR 1,500–3,200 per month, tax-free",
+    "top_employers": "Oman Air, SalamAir, Oman Airports",
+    "timezone": "Gulf Standard Time (GST / UTC+4)",
+    "batch_timing": "Weekend Live Online Sessions",
+    "hreflang": "en-OM",
+    "seo_title": "Aviation Product Management Course Oman | COEPD",
+    "meta_desc": "Explore COEPD's 5-month online Aviation Product Management course in Oman. Learn airline technology, Agile methods and 6 aviation capstone projects.",
+    "canonical_url": "https://aviation.coepd.co/oman/",
+    "h1": "Online Aviation Product Management Course in Oman",
+    "hero_eyebrow": "Specialized Aviation Product Management Training in Oman",
+    "hero_intro": "Build specialised product management knowledge for the aviation industry through COEPD's 5-month live online Aviation Technical Product Manager programme, designed for professionals in Oman.",
+    "hero_takeaways": [
+      "Master technical product strategy, discovery, execution and lifecycle management for aviation software.",
+      "Understand airline systems, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.",
+      "Complete six Agile capstone projects covering passenger journeys, flight operations, and cargo workflows.",
+      "Prepare for product manager and aviation technology roles in Oman and global aviation hubs."
+    ],
+    "why_learn_title": "Why Study Aviation Product Management in Oman?",
+    "why_learn_intro": "Oman's aviation ecosystem includes airlines, airports, aviation services and logistics activities.\nDigital technology supports passenger services, airline operations, airport processes and cargo information exchange.\nUnderstanding these workflows can help business and technology professionals explore industry-specific product management challenges.",
+    "why_learn_points": [
+      {
+        "title": "Airline and Airport Digital Systems",
+        "desc": "Understand aviation workflows and the technology used to support operational processes."
+      },
+      {
+        "title": "Air Cargo and Logistics Technology",
+        "desc": "Explore cargo documentation, shipment information and aviation technology systems."
+      },
+      {
+        "title": "Agile Product Management",
+        "desc": "Develop knowledge of product roadmaps, requirements, prioritisation and stakeholder collaboration."
+      }
+    ],
+    "audience_title": "Who Should Enrol in Oman?",
+    "audience_intro": "IT professionals, business analysts, airline operations specialists, product owners and technology consultants.\n## H2: Aviation Technology Career Pathways in Oman\nExplore potential roles in Aviation Business Analysis, Airline Technology Product Ownership, Technical Product Management and Digital Product Analysis.\nOman Air, Oman Airports and aviation technology service providers are industry examples, not COEPD recruitment partners.\n## H2: Online Training in Muscat and Across Oman\nConfirm Oman-compatible live class schedules (UTC+4), OMR fees, entry requirements and programme certification.",
+    "audience_points": [
+      {
+        "role": "Software Engineers & IT Professionals",
+        "desc": "Engineers looking to build specialized domain knowledge in airline, airport and cargo software."
+      },
+      {
+        "role": "Business Analysts",
+        "desc": "BAs transitioning into technical product management with industry-recognized frameworks."
+      },
+      {
+        "role": "Aviation Operations Professionals",
+        "desc": "Operational staff moving into airline digital transformation and technology product roles."
+      },
+      {
+        "role": "Product Owners & Managers",
+        "desc": "Product leaders seeking deep aviation domain specialization in IATA and ONE Record standards."
+      }
+    ],
+    "career_title": "Aviation Technology & Product Management Opportunities in Oman",
+    "career_intro": "The aviation ecosystem in Oman and international airline hubs offers growing demand for technical product managers, product owners and aviation digital transformation specialists.",
+    "career_roles": [
+      {
+        "title": "Aviation Technical Product Manager",
+        "desc": "Leads planning and technical delivery for aviation digital products and airline systems."
+      },
+      {
+        "title": "Airline Technology Product Manager",
+        "desc": "Oversees booking, departure control, turnaround and passenger digital applications."
+      },
+      {
+        "title": "Aviation Software Product Owner",
+        "desc": "Manages Agile backlogs, user stories and sprint delivery with engineering teams."
+      },
+      {
+        "title": "Aviation Digital Transformation Consultant",
+        "desc": "Advises airlines, airports and cargo operators on modern software platforms."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "1. Is COEPD's Aviation Product Management programme available online in Oman?",
+        "a": "Yes. COEPD's 5-month Aviation Technical Product Manager training is conducted live online with interactive instructor-led weekend sessions and weekday self-study, accessible to professionals across Oman."
+      },
+      {
+        "q": "2. What is the duration of the programme?",
+        "a": "The programme runs for five months structured into three learning pillars: Product Literacy Foundations, Aviation Product Knowledge, and Six Agile Aviation Capstone Projects."
+      },
+      {
+        "q": "3. Can IT professionals and Business Analysts in Oman enroll?",
+        "a": "Yes. The curriculum is specifically designed for software engineers, IT specialists, business analysts, and aviation operations professionals who wish to transition or advance into aviation digital product management."
+      },
+      {
+        "q": "4. What aviation topics and standards are covered?",
+        "a": "The curriculum covers airline and cargo processes, reservation and departure control, flight turnaround, disruption management, Air Waybills (AWB/e-AWB), IATA standards, ONE Record, Cargo iQ, and aviation data governance."
+      },
+      {
+        "q": "5. Does the training include practical hands-on projects?",
+        "a": "Yes. Learners complete six portfolio-ready capstone projects using Agile methodologies, including problem discovery, product strategy roadmaps, backlog prioritization, technical PRDs, UX acceptance criteria, and go-to-market planning."
+      },
+      {
+        "q": "6. How are batch timings arranged for Oman learners?",
+        "a": "Live online sessions are scheduled on weekends with convenient timings aligned to Gulf Standard Time (GST / UTC+4), complemented by weekday assignments and instructor reviews."
+      },
+      {
+        "q": "7. What are the course fees in OMR?",
+        "a": "Course tuition is available in OMR or equivalent international payment options. Please submit an enquiry to receive the current fee schedule, payment plans, and eligibility details."
+      },
+      {
+        "q": "8. How can I apply for the upcoming batch from Oman?",
+        "a": "Submit your details using the admissions enquiry form on this page to receive the complete syllabus, upcoming batch calendar, and schedule an admissions consultation."
+      }
+    ]
+  },
+  "kuwait": {
+    "name": "Kuwait",
+    "slug": "kuwait",
+    "flag": "",
+    "dial_code": "+965",
+    "currency": "KWD",
+    "indicative_comp": "KWD 1,200–2,800 per month, tax-free",
+    "top_employers": "Kuwait Airways, Jazeera Airways, Directorate General of Civil Aviation",
+    "timezone": "Arabia Standard Time (AST / UTC+3)",
+    "batch_timing": "Weekend Live Online Sessions",
+    "hreflang": "en-KW",
+    "seo_title": "Aviation Product Management Course Kuwait | COEPD",
+    "meta_desc": "Explore COEPD's online Aviation Product Management training in Kuwait. Learn airline systems, product strategy and Agile through a 5-month programme.",
+    "canonical_url": "https://aviation.coepd.co/kuwait/",
+    "h1": "Online Aviation Product Management Course in Kuwait",
+    "hero_eyebrow": "Specialized Aviation Product Management Training in Kuwait",
+    "hero_intro": "Build specialised product management knowledge for the aviation industry through COEPD's 5-month live online Aviation Technical Product Manager programme, designed for professionals in Kuwait.",
+    "hero_takeaways": [
+      "Master technical product strategy, discovery, execution and lifecycle management for aviation software.",
+      "Understand airline systems, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.",
+      "Complete six Agile capstone projects covering passenger journeys, flight operations, and cargo workflows.",
+      "Prepare for product manager and aviation technology roles in Kuwait and global aviation hubs."
+    ],
+    "why_learn_title": "Why Study Aviation Product Management in Kuwait?",
+    "why_learn_intro": "Kuwait's aviation and transport ecosystem includes airlines, airport services, cargo operations and related technology providers.\nDigital product knowledge is relevant to understanding business systems, operational information, passenger services and aviation workflows.",
+    "why_learn_points": [
+      {
+        "title": "Airline Digital Products",
+        "desc": "Explore booking systems, passenger processes and aviation software requirements."
+      },
+      {
+        "title": "Airport Technology",
+        "desc": "Understand operational workflows and supporting digital information systems."
+      },
+      {
+        "title": "Technical Product Management",
+        "desc": "Explore requirements, roadmaps, Agile concepts and stakeholder coordination."
+      }
+    ],
+    "audience_title": "Who Should Enrol in Kuwait?",
+    "audience_intro": "Software engineers, business analysts, airline professionals, product owners and technology consultants.\n## H2: Aviation Technology Career Pathways in Kuwait\nExplore Aviation Business Analyst, Technical Product Manager, Product Owner and Digital Product Analyst roles according to individual eligibility.\nKuwait Airways, Jazeera Airways and supporting aviation technology organisations are industry examples, not COEPD partners.\n## H2: Online Training for Kuwait-Based Professionals\nConfirm class times in Kuwait local time (UTC+3), KWD pricing, eligibility and certificates.",
+    "audience_points": [
+      {
+        "role": "Software Engineers & IT Professionals",
+        "desc": "Engineers looking to build specialized domain knowledge in airline, airport and cargo software."
+      },
+      {
+        "role": "Business Analysts",
+        "desc": "BAs transitioning into technical product management with industry-recognized frameworks."
+      },
+      {
+        "role": "Aviation Operations Professionals",
+        "desc": "Operational staff moving into airline digital transformation and technology product roles."
+      },
+      {
+        "role": "Product Owners & Managers",
+        "desc": "Product leaders seeking deep aviation domain specialization in IATA and ONE Record standards."
+      }
+    ],
+    "career_title": "Aviation Technology & Product Management Opportunities in Kuwait",
+    "career_intro": "The aviation ecosystem in Kuwait and international airline hubs offers growing demand for technical product managers, product owners and aviation digital transformation specialists.",
+    "career_roles": [
+      {
+        "title": "Aviation Technical Product Manager",
+        "desc": "Leads planning and technical delivery for aviation digital products and airline systems."
+      },
+      {
+        "title": "Airline Technology Product Manager",
+        "desc": "Oversees booking, departure control, turnaround and passenger digital applications."
+      },
+      {
+        "title": "Aviation Software Product Owner",
+        "desc": "Manages Agile backlogs, user stories and sprint delivery with engineering teams."
+      },
+      {
+        "title": "Aviation Digital Transformation Consultant",
+        "desc": "Advises airlines, airports and cargo operators on modern software platforms."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "1. Is COEPD's Aviation Product Management programme available online in Kuwait?",
+        "a": "Yes. COEPD's 5-month Aviation Technical Product Manager training is conducted live online with interactive instructor-led weekend sessions and weekday self-study, accessible to professionals across Kuwait."
+      },
+      {
+        "q": "2. What is the duration of the programme?",
+        "a": "The programme runs for five months structured into three learning pillars: Product Literacy Foundations, Aviation Product Knowledge, and Six Agile Aviation Capstone Projects."
+      },
+      {
+        "q": "3. Can IT professionals and Business Analysts in Kuwait enroll?",
+        "a": "Yes. The curriculum is specifically designed for software engineers, IT specialists, business analysts, and aviation operations professionals who wish to transition or advance into aviation digital product management."
+      },
+      {
+        "q": "4. What aviation topics and standards are covered?",
+        "a": "The curriculum covers airline and cargo processes, reservation and departure control, flight turnaround, disruption management, Air Waybills (AWB/e-AWB), IATA standards, ONE Record, Cargo iQ, and aviation data governance."
+      },
+      {
+        "q": "5. Does the training include practical hands-on projects?",
+        "a": "Yes. Learners complete six portfolio-ready capstone projects using Agile methodologies, including problem discovery, product strategy roadmaps, backlog prioritization, technical PRDs, UX acceptance criteria, and go-to-market planning."
+      },
+      {
+        "q": "6. How are batch timings arranged for Kuwait learners?",
+        "a": "Live online sessions are scheduled on weekends with convenient timings aligned to Arabia Standard Time (AST / UTC+3), complemented by weekday assignments and instructor reviews."
+      },
+      {
+        "q": "7. What are the course fees in KWD?",
+        "a": "Course tuition is available in KWD or equivalent international payment options. Please submit an enquiry to receive the current fee schedule, payment plans, and eligibility details."
+      },
+      {
+        "q": "8. How can I apply for the upcoming batch from Kuwait?",
+        "a": "Submit your details using the admissions enquiry form on this page to receive the complete syllabus, upcoming batch calendar, and schedule an admissions consultation."
+      }
+    ]
+  },
+  "bahrain": {
+    "name": "Bahrain",
+    "slug": "bahrain",
+    "flag": "",
+    "dial_code": "+973",
+    "currency": "BHD",
+    "indicative_comp": "BHD 1,400–2,900 per month, tax-free",
+    "top_employers": "Gulf Air, Bahrain Airport Company, Aviation IT Hubs",
+    "timezone": "Arabia Standard Time (AST / UTC+3)",
+    "batch_timing": "Weekend Live Online Sessions",
+    "hreflang": "en-BH",
+    "seo_title": "Aviation Product Management Course Bahrain | COEPD",
+    "meta_desc": "Explore COEPD's 5-month live online Aviation Product Management course in Bahrain. Learn airline technology, Agile product delivery and aviation workflows.",
+    "canonical_url": "https://aviation.coepd.co/bahrain/",
+    "h1": "Online Aviation Product Management Course in Bahrain",
+    "hero_eyebrow": "Specialized Aviation Product Management Training in Bahrain",
+    "hero_intro": "Build specialised product management knowledge for the aviation industry through COEPD's 5-month live online Aviation Technical Product Manager programme, designed for professionals in Bahrain.",
+    "hero_takeaways": [
+      "Master technical product strategy, discovery, execution and lifecycle management for aviation software.",
+      "Understand airline systems, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.",
+      "Complete six Agile capstone projects covering passenger journeys, flight operations, and cargo workflows.",
+      "Prepare for product manager and aviation technology roles in Bahrain and global aviation hubs."
+    ],
+    "why_learn_title": "Why Study Aviation Product Management in Bahrain?",
+    "why_learn_intro": "Bahrain's aviation ecosystem includes airline operations, airports, air cargo services and supporting technology businesses.\nAviation product management concepts help professionals understand how digital platforms support complex business workflows and operational information.",
+    "why_learn_points": [
+      {
+        "title": "Airline Software Systems",
+        "desc": "Explore passenger services, operational workflows and software-related product requirements."
+      },
+      {
+        "title": "Cargo and Airport Technology",
+        "desc": "Understand digital cargo processes, airport systems and information management."
+      },
+      {
+        "title": "Product Strategy and Agile Delivery",
+        "desc": "Explore prioritisation, technical requirements and Agile collaboration."
+      }
+    ],
+    "audience_title": "Who Should Enrol in Bahrain?",
+    "audience_intro": "Business analysts, IT specialists, product professionals, technology consultants and aviation operations employees.\n## H2: Aviation Product Management Career Pathways in Bahrain\nExplore roles related to airline business analysis, aviation technical product management, software product ownership and digital transformation.\nGulf Air, Bahrain Airport Company and aviation service providers are examples of the industry ecosystem, not COEPD employment partners.\n## H2: Online Aviation Product Management Training Across Bahrain\nConfirm class schedules in Bahrain local time (UTC+3), tuition in BHD and certification details.",
+    "audience_points": [
+      {
+        "role": "Software Engineers & IT Professionals",
+        "desc": "Engineers looking to build specialized domain knowledge in airline, airport and cargo software."
+      },
+      {
+        "role": "Business Analysts",
+        "desc": "BAs transitioning into technical product management with industry-recognized frameworks."
+      },
+      {
+        "role": "Aviation Operations Professionals",
+        "desc": "Operational staff moving into airline digital transformation and technology product roles."
+      },
+      {
+        "role": "Product Owners & Managers",
+        "desc": "Product leaders seeking deep aviation domain specialization in IATA and ONE Record standards."
+      }
+    ],
+    "career_title": "Aviation Technology & Product Management Opportunities in Bahrain",
+    "career_intro": "The aviation ecosystem in Bahrain and international airline hubs offers growing demand for technical product managers, product owners and aviation digital transformation specialists.",
+    "career_roles": [
+      {
+        "title": "Aviation Technical Product Manager",
+        "desc": "Leads planning and technical delivery for aviation digital products and airline systems."
+      },
+      {
+        "title": "Airline Technology Product Manager",
+        "desc": "Oversees booking, departure control, turnaround and passenger digital applications."
+      },
+      {
+        "title": "Aviation Software Product Owner",
+        "desc": "Manages Agile backlogs, user stories and sprint delivery with engineering teams."
+      },
+      {
+        "title": "Aviation Digital Transformation Consultant",
+        "desc": "Advises airlines, airports and cargo operators on modern software platforms."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "1. Is COEPD's Aviation Product Management programme available online in Bahrain?",
+        "a": "Yes. COEPD's 5-month Aviation Technical Product Manager training is conducted live online with interactive instructor-led weekend sessions and weekday self-study, accessible to professionals across Bahrain."
+      },
+      {
+        "q": "2. What is the duration of the programme?",
+        "a": "The programme runs for five months structured into three learning pillars: Product Literacy Foundations, Aviation Product Knowledge, and Six Agile Aviation Capstone Projects."
+      },
+      {
+        "q": "3. Can IT professionals and Business Analysts in Bahrain enroll?",
+        "a": "Yes. The curriculum is specifically designed for software engineers, IT specialists, business analysts, and aviation operations professionals who wish to transition or advance into aviation digital product management."
+      },
+      {
+        "q": "4. What aviation topics and standards are covered?",
+        "a": "The curriculum covers airline and cargo processes, reservation and departure control, flight turnaround, disruption management, Air Waybills (AWB/e-AWB), IATA standards, ONE Record, Cargo iQ, and aviation data governance."
+      },
+      {
+        "q": "5. Does the training include practical hands-on projects?",
+        "a": "Yes. Learners complete six portfolio-ready capstone projects using Agile methodologies, including problem discovery, product strategy roadmaps, backlog prioritization, technical PRDs, UX acceptance criteria, and go-to-market planning."
+      },
+      {
+        "q": "6. How are batch timings arranged for Bahrain learners?",
+        "a": "Live online sessions are scheduled on weekends with convenient timings aligned to Arabia Standard Time (AST / UTC+3), complemented by weekday assignments and instructor reviews."
+      },
+      {
+        "q": "7. What are the course fees in BHD?",
+        "a": "Course tuition is available in BHD or equivalent international payment options. Please submit an enquiry to receive the current fee schedule, payment plans, and eligibility details."
+      },
+      {
+        "q": "8. How can I apply for the upcoming batch from Bahrain?",
+        "a": "Submit your details using the admissions enquiry form on this page to receive the complete syllabus, upcoming batch calendar, and schedule an admissions consultation."
+      }
+    ]
+  },
+  "new-zealand": {
+    "name": "New Zealand",
+    "slug": "new-zealand",
+    "flag": "",
+    "dial_code": "+64",
+    "currency": "NZD",
+    "indicative_comp": "NZD 105,000–175,000 per year",
+    "top_employers": "Air New Zealand, Auckland Airport, Aviation Tech Providers",
+    "timezone": "New Zealand Standard Time (NZST / UTC+12)",
+    "batch_timing": "Weekend Live Online Sessions",
+    "hreflang": "en-NZ",
+    "seo_title": "Aviation Product Management Course New Zealand | COEPD",
+    "meta_desc": "Explore COEPD's online Aviation Product Management course for New Zealand professionals. Study airline systems, product strategy and 6 Agile projects.",
+    "canonical_url": "https://aviation.coepd.co/new-zealand/",
+    "h1": "Online Aviation Product Management Course in New Zealand",
+    "hero_eyebrow": "Specialized Aviation Product Management Training in New Zealand",
+    "hero_intro": "Build specialised product management knowledge for the aviation industry through COEPD's 5-month live online Aviation Technical Product Manager programme, designed for professionals in New Zealand.",
+    "hero_takeaways": [
+      "Master technical product strategy, discovery, execution and lifecycle management for aviation software.",
+      "Understand airline systems, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.",
+      "Complete six Agile capstone projects covering passenger journeys, flight operations, and cargo workflows.",
+      "Prepare for product manager and aviation technology roles in New Zealand and global aviation hubs."
+    ],
+    "why_learn_title": "Why Study Aviation Product Management in New Zealand?",
+    "why_learn_intro": "New Zealand's aviation ecosystem includes airlines, airports, regional aviation services, aviation engineering businesses and related technology organisations.\nDigital systems support passenger journeys, airline operations, cargo activities and operational information management.\nProfessionals interested in software and aviation can explore how technical product management concepts apply to these environments.",
+    "why_learn_points": [
+      {
+        "title": "Airline Digital Services",
+        "desc": "Explore passenger-related technology and airline operational workflows."
+      },
+      {
+        "title": "Aviation Business Systems",
+        "desc": "Understand product requirements, operational data and information exchange."
+      },
+      {
+        "title": "Agile Product Planning",
+        "desc": "Explore requirements documentation, roadmap thinking and product delivery."
+      }
+    ],
+    "audience_title": "Who Should Enrol in New Zealand?",
+    "audience_intro": "Software engineers, IT professionals, business analysts, product owners and aviation industry employees.\n## H2: Aviation Product Management Career Pathways in New Zealand\nExplore roles such as Aviation Business Analyst, Technical Product Owner, Airline Systems Product Analyst and Product Manager.\nAir New Zealand, airport operators and aviation service providers are industry examples, not COEPD placement partners.\n## H2: Online Aviation Product Management Training Across New Zealand\nConfirm suitable NZST/NZDT class times, NZD tuition and programme admission conditions.",
+    "audience_points": [
+      {
+        "role": "Software Engineers & IT Professionals",
+        "desc": "Engineers looking to build specialized domain knowledge in airline, airport and cargo software."
+      },
+      {
+        "role": "Business Analysts",
+        "desc": "BAs transitioning into technical product management with industry-recognized frameworks."
+      },
+      {
+        "role": "Aviation Operations Professionals",
+        "desc": "Operational staff moving into airline digital transformation and technology product roles."
+      },
+      {
+        "role": "Product Owners & Managers",
+        "desc": "Product leaders seeking deep aviation domain specialization in IATA and ONE Record standards."
+      }
+    ],
+    "career_title": "Aviation Technology & Product Management Opportunities in New Zealand",
+    "career_intro": "The aviation ecosystem in New Zealand and international airline hubs offers growing demand for technical product managers, product owners and aviation digital transformation specialists.",
+    "career_roles": [
+      {
+        "title": "Aviation Technical Product Manager",
+        "desc": "Leads planning and technical delivery for aviation digital products and airline systems."
+      },
+      {
+        "title": "Airline Technology Product Manager",
+        "desc": "Oversees booking, departure control, turnaround and passenger digital applications."
+      },
+      {
+        "title": "Aviation Software Product Owner",
+        "desc": "Manages Agile backlogs, user stories and sprint delivery with engineering teams."
+      },
+      {
+        "title": "Aviation Digital Transformation Consultant",
+        "desc": "Advises airlines, airports and cargo operators on modern software platforms."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "1. Is COEPD's Aviation Product Management programme available online in New Zealand?",
+        "a": "Yes. COEPD's 5-month Aviation Technical Product Manager training is conducted live online with interactive instructor-led weekend sessions and weekday self-study, accessible to professionals across New Zealand."
+      },
+      {
+        "q": "2. What is the duration of the programme?",
+        "a": "The programme runs for five months structured into three learning pillars: Product Literacy Foundations, Aviation Product Knowledge, and Six Agile Aviation Capstone Projects."
+      },
+      {
+        "q": "3. Can IT professionals and Business Analysts in New Zealand enroll?",
+        "a": "Yes. The curriculum is specifically designed for software engineers, IT specialists, business analysts, and aviation operations professionals who wish to transition or advance into aviation digital product management."
+      },
+      {
+        "q": "4. What aviation topics and standards are covered?",
+        "a": "The curriculum covers airline and cargo processes, reservation and departure control, flight turnaround, disruption management, Air Waybills (AWB/e-AWB), IATA standards, ONE Record, Cargo iQ, and aviation data governance."
+      },
+      {
+        "q": "5. Does the training include practical hands-on projects?",
+        "a": "Yes. Learners complete six portfolio-ready capstone projects using Agile methodologies, including problem discovery, product strategy roadmaps, backlog prioritization, technical PRDs, UX acceptance criteria, and go-to-market planning."
+      },
+      {
+        "q": "6. How are batch timings arranged for New Zealand learners?",
+        "a": "Live online sessions are scheduled on weekends with convenient timings aligned to New Zealand Standard Time (NZST / UTC+12), complemented by weekday assignments and instructor reviews."
+      },
+      {
+        "q": "7. What are the course fees in NZD?",
+        "a": "Course tuition is available in NZD or equivalent international payment options. Please submit an enquiry to receive the current fee schedule, payment plans, and eligibility details."
+      },
+      {
+        "q": "8. How can I apply for the upcoming batch from New Zealand?",
+        "a": "Submit your details using the admissions enquiry form on this page to receive the complete syllabus, upcoming batch calendar, and schedule an admissions consultation."
+      }
+    ]
+  },
+  "south-africa": {
+    "name": "South Africa",
+    "slug": "south-africa",
+    "flag": "",
+    "dial_code": "+27",
+    "currency": "ZAR",
+    "indicative_comp": "ZAR 650,000–1,200,000 per year",
+    "top_employers": "Airlink, South African Airways, Airports Company South Africa (ACSA)",
+    "timezone": "South Africa Standard Time (SAST / UTC+2)",
+    "batch_timing": "Weekend Live Online Sessions",
+    "hreflang": "en-ZA",
+    "seo_title": "Aviation Product Management Course South Africa | COEPD",
+    "meta_desc": "Explore COEPD's 5-month online Aviation Product Management training in South Africa. Learn airline systems, Agile and 6 aviation capstone projects.",
+    "canonical_url": "https://aviation.coepd.co/south-africa/",
+    "h1": "Online Aviation Product Management Course in South Africa",
+    "hero_eyebrow": "Specialized Aviation Product Management Training in South Africa",
+    "hero_intro": "Build specialised product management knowledge for the aviation industry through COEPD's 5-month live online Aviation Technical Product Manager programme, designed for professionals in South Africa.",
+    "hero_takeaways": [
+      "Master technical product strategy, discovery, execution and lifecycle management for aviation software.",
+      "Understand airline systems, AWB management, IATA standards, ONE Record, e-AWB, and CargoiQ.",
+      "Complete six Agile capstone projects covering passenger journeys, flight operations, and cargo workflows.",
+      "Prepare for product manager and aviation technology roles in South Africa and global aviation hubs."
+    ],
+    "why_learn_title": "Why Study Aviation Product Management in South Africa?",
+    "why_learn_intro": "South Africa's aviation sector includes airlines, airports, cargo services, logistics businesses and aviation technology providers.\nDigital technology supports airline operations, passenger services, airport information systems and cargo-related business processes.\nProfessionals working in IT, business analysis and aviation can explore how product management methods relate to these systems.",
+    "why_learn_points": [
+      {
+        "title": "Airline Digital Transformation",
+        "desc": "Understand software products supporting airline services and operational processes."
+      },
+      {
+        "title": "Airport Operations Technology",
+        "desc": "Explore airport information systems and digital operational coordination."
+      },
+      {
+        "title": "Aviation Product Strategy",
+        "desc": "Learn how requirements, roadmap planning and Agile concepts connect to aviation software delivery."
+      }
+    ],
+    "audience_title": "Who Should Enrol in South Africa?",
+    "audience_intro": "IT specialists, software engineers, business analysts, product managers, aviation professionals and technology consultants.\n## H2: Aviation Technology Career Pathways in South Africa\nExplore positions related to Aviation Business Analysis, Airline Technology Product Management, Software Product Ownership and Digital Product Analysis.\nSouth African Airways, Airports Company South Africa and aviation service providers are industry examples, not COEPD placement partners.\n## H2: Online Aviation Product Management Training Across South Africa\nConfirm class timings in South Africa Standard Time (UTC+2), fees in ZAR, eligibility and certificate information.",
+    "audience_points": [
+      {
+        "role": "Software Engineers & IT Professionals",
+        "desc": "Engineers looking to build specialized domain knowledge in airline, airport and cargo software."
+      },
+      {
+        "role": "Business Analysts",
+        "desc": "BAs transitioning into technical product management with industry-recognized frameworks."
+      },
+      {
+        "role": "Aviation Operations Professionals",
+        "desc": "Operational staff moving into airline digital transformation and technology product roles."
+      },
+      {
+        "role": "Product Owners & Managers",
+        "desc": "Product leaders seeking deep aviation domain specialization in IATA and ONE Record standards."
+      }
+    ],
+    "career_title": "Aviation Technology & Product Management Opportunities in South Africa",
+    "career_intro": "The aviation ecosystem in South Africa and international airline hubs offers growing demand for technical product managers, product owners and aviation digital transformation specialists.",
+    "career_roles": [
+      {
+        "title": "Aviation Technical Product Manager",
+        "desc": "Leads planning and technical delivery for aviation digital products and airline systems."
+      },
+      {
+        "title": "Airline Technology Product Manager",
+        "desc": "Oversees booking, departure control, turnaround and passenger digital applications."
+      },
+      {
+        "title": "Aviation Software Product Owner",
+        "desc": "Manages Agile backlogs, user stories and sprint delivery with engineering teams."
+      },
+      {
+        "title": "Aviation Digital Transformation Consultant",
+        "desc": "Advises airlines, airports and cargo operators on modern software platforms."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "1. Is COEPD's Aviation Product Management programme available online in South Africa?",
+        "a": "Yes. COEPD's 5-month Aviation Technical Product Manager training is conducted live online with interactive instructor-led weekend sessions and weekday self-study, accessible to professionals across South Africa."
+      },
+      {
+        "q": "2. What is the duration of the programme?",
+        "a": "The programme runs for five months structured into three learning pillars: Product Literacy Foundations, Aviation Product Knowledge, and Six Agile Aviation Capstone Projects."
+      },
+      {
+        "q": "3. Can IT professionals and Business Analysts in South Africa enroll?",
+        "a": "Yes. The curriculum is specifically designed for software engineers, IT specialists, business analysts, and aviation operations professionals who wish to transition or advance into aviation digital product management."
+      },
+      {
+        "q": "4. What aviation topics and standards are covered?",
+        "a": "The curriculum covers airline and cargo processes, reservation and departure control, flight turnaround, disruption management, Air Waybills (AWB/e-AWB), IATA standards, ONE Record, Cargo iQ, and aviation data governance."
+      },
+      {
+        "q": "5. Does the training include practical hands-on projects?",
+        "a": "Yes. Learners complete six portfolio-ready capstone projects using Agile methodologies, including problem discovery, product strategy roadmaps, backlog prioritization, technical PRDs, UX acceptance criteria, and go-to-market planning."
+      },
+      {
+        "q": "6. How are batch timings arranged for South Africa learners?",
+        "a": "Live online sessions are scheduled on weekends with convenient timings aligned to South Africa Standard Time (SAST / UTC+2), complemented by weekday assignments and instructor reviews."
+      },
+      {
+        "q": "7. What are the course fees in ZAR?",
+        "a": "Course tuition is available in ZAR or equivalent international payment options. Please submit an enquiry to receive the current fee schedule, payment plans, and eligibility details."
+      },
+      {
+        "q": "8. How can I apply for the upcoming batch from South Africa?",
+        "a": "Submit your details using the admissions enquiry form on this page to receive the complete syllabus, upcoming batch calendar, and schedule an admissions consultation."
+      }
+    ]
+  }
+}
