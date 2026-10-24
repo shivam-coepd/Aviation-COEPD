@@ -20,6 +20,29 @@ if (!$country) {
 
 $all_countries = get_all_countries_data();
 
+// Calculate relative path prefix back to the application root directory
+// Works seamlessly across local PHP server, Hostinger root domains, and Hostinger subfolders
+$app_root_dir = __DIR__;
+$entry_dir = dirname($_SERVER['SCRIPT_FILENAME'] ?? __DIR__);
+
+function get_relative_asset_prefix(string $entry, string $root): string {
+    $from = str_replace('\\', '/', realpath($entry) ?: $entry);
+    $to = str_replace('\\', '/', realpath($root) ?: $root);
+    if ($from === $to) {
+        return '';
+    }
+    $fromParts = array_values(array_filter(explode('/', trim($from, '/'))));
+    $toParts = array_values(array_filter(explode('/', trim($to, '/'))));
+    while (count($fromParts) && count($toParts) && $fromParts[0] === $toParts[0]) {
+        array_shift($fromParts);
+        array_shift($toParts);
+    }
+    $depth = count($fromParts);
+    return $depth > 0 ? str_repeat('../', $depth) : '../';
+}
+
+$base_path = get_relative_asset_prefix($entry_dir, $app_root_dir);
+
 $errors = [];
 $success = false;
 $old = [
@@ -184,7 +207,7 @@ a:hover{text-decoration:underline}
   position:relative;
   background:
     linear-gradient(135deg, rgba(13, 30, 48, 0.94) 0%, rgba(20, 45, 69, 0.89) 55%, rgba(10, 24, 38, 0.96) 100%),
-    url('<?= htmlspecialchars(ENVIRONMENT === 'local' ? '../assets/images/hero-bg.jpg' : 'assets/images/hero-bg.jpg') ?>') center/cover no-repeat;
+    url('<?= htmlspecialchars($base_path . 'assets/images/hero-bg.jpg') ?>') center/cover no-repeat;
   border-bottom:1px solid rgba(255,255,255,.08);
   padding:72px 0 82px;
   color:#fff;
@@ -385,8 +408,8 @@ footer{background:var(--navy-dark);color:#a9b8c5;padding:46px 0 32px;font-size:1
 
 <header class="site-header">
   <div class="wrap header-inner">
-    <a href="../" class="brand" aria-label="COEPD Aviation">
-      <img src="<?= htmlspecialchars(ENVIRONMENT === 'local' ? '../assets/images/logo.png' : 'assets/images/logo.png') ?>" alt="COEPD Logo" class="brand-logo">
+    <a href="<?= htmlspecialchars($base_path ?: './') ?>" class="brand" aria-label="COEPD Aviation">
+      <img src="<?= htmlspecialchars($base_path . 'assets/images/logo.png') ?>" alt="COEPD Logo" class="brand-logo">
     </a>
     <nav class="main-nav">
       <a href="#why-learn">Why <?= htmlspecialchars($country['name']) ?></a>
@@ -399,7 +422,7 @@ footer{background:var(--navy-dark);color:#a9b8c5;padding:46px 0 32px;font-size:1
       <div class="country-selector">
         <a class="country-select-btn" href="javascript:void(0)" aria-label="Select Country">
           <?php if (!empty($country['flag']) && file_exists(__DIR__ . '/' . $country['flag'])): ?>
-            <img src="<?= htmlspecialchars(ENVIRONMENT === 'local' ? '../' . $country['flag'] : $country['flag']) ?>" alt="<?= htmlspecialchars($country['name']) ?>" class="country-select-flag">
+            <img src="<?= htmlspecialchars($base_path . $country['flag']) ?>" alt="<?= htmlspecialchars($country['name']) ?>" class="country-select-flag">
           <?php else: ?>
             <span>🌐</span>
           <?php endif; ?>
@@ -408,9 +431,9 @@ footer{background:var(--navy-dark);color:#a9b8c5;padding:46px 0 32px;font-size:1
         </a>
         <div class="country-dropdown">
           <?php foreach ($all_countries as $c_slug => $c_item): ?>
-            <a href="../<?= htmlspecialchars($c_slug) ?>/" class="<?= $c_slug === $country_key ? 'active' : '' ?>">
+            <a href="<?= htmlspecialchars($base_path . $c_slug) ?>/" class="<?= $c_slug === $country_key ? 'active' : '' ?>">
               <?php if (!empty($c_item['flag']) && file_exists(__DIR__ . '/' . $c_item['flag'])): ?>
-                <img src="<?= htmlspecialchars(ENVIRONMENT === 'local' ? '../' . $c_item['flag'] : $c_item['flag']) ?>" alt="<?= htmlspecialchars($c_item['name']) ?>" class="country-drop-flag">
+                <img src="<?= htmlspecialchars($base_path . $c_item['flag']) ?>" alt="<?= htmlspecialchars($c_item['name']) ?>" class="country-drop-flag">
               <?php else: ?>
                 <span>🌐</span>
               <?php endif; ?>
@@ -432,7 +455,7 @@ footer{background:var(--navy-dark);color:#a9b8c5;padding:46px 0 32px;font-size:1
     <div>
       <div class="hero-badge">
         <?php if (!empty($country['flag']) && file_exists(__DIR__ . '/' . $country['flag'])): ?>
-          <img src="<?= htmlspecialchars(ENVIRONMENT === 'local' ? '../' . $country['flag'] : $country['flag']) ?>" alt="<?= htmlspecialchars($country['name']) ?>" class="hero-badge-flag">
+          <img src="<?= htmlspecialchars($base_path . $country['flag']) ?>" alt="<?= htmlspecialchars($country['name']) ?>" class="hero-badge-flag">
         <?php else: ?>
           <span class="hero-badge-dot"></span>
         <?php endif; ?>
@@ -689,7 +712,7 @@ footer{background:var(--navy-dark);color:#a9b8c5;padding:46px 0 32px;font-size:1
     <div class="curriculum-grid">
       <aside class="curriculum-card">
         <div class="curriculum-card-media">
-          <img src="<?= htmlspecialchars(ENVIRONMENT === 'local' ? '../assets/images/curriculum-learning.jpg' : 'assets/images/curriculum-learning.jpg') ?>" alt="Aviation Product Management Learning and Operations Workshop" class="curriculum-card-img" width="720" height="450">
+          <img src="<?= htmlspecialchars($base_path . 'assets/images/curriculum-learning.jpg') ?>" alt="Aviation Product Management Learning and Operations Workshop" class="curriculum-card-img" width="720" height="450">
         </div>
         <div class="curriculum-card-body">
           <span class="curriculum-card-kicker">Learning Methodology</span>
@@ -854,8 +877,8 @@ footer{background:var(--navy-dark);color:#a9b8c5;padding:46px 0 32px;font-size:1
   <div class="wrap">
     <div class="footer-inner">
       <div class="footer-brand-wrap">
-        <a href="#top" class="footer-logo-link" aria-label="COEPD Aviation">
-          <img src="<?= htmlspecialchars(ENVIRONMENT === 'local' ? '../assets/images/logo.png' : 'assets/images/logo.png') ?>" alt="COEPD Logo" class="footer-logo" width="180" height="67">
+        <a href="<?= htmlspecialchars($base_path ?: './') ?>" class="footer-logo-link" aria-label="COEPD Aviation">
+          <img src="<?= htmlspecialchars($base_path . 'assets/images/logo.png') ?>" alt="COEPD Logo" class="footer-logo" width="180" height="67">
         </a>
         <div class="footer-program-info">
           <strong>COEPD Aviation Institute — <?= htmlspecialchars($country['name']) ?></strong>
@@ -872,11 +895,11 @@ footer{background:var(--navy-dark);color:#a9b8c5;padding:46px 0 32px;font-size:1
     <div class="footer-countries">
       <h4>Global Training Programs by Country</h4>
       <div class="country-links-grid">
-        <a href="../">🌐 Global / All Countries</a>
+        <a href="<?= htmlspecialchars($base_path ?: './') ?>">🌐 Global / All Countries</a>
         <?php foreach ($all_countries as $c_slug => $c_item): ?>
-          <a href="../<?= htmlspecialchars($c_slug) ?>/">
+          <a href="<?= htmlspecialchars($base_path . $c_slug) ?>/">
             <?php if (!empty($c_item['flag']) && file_exists(__DIR__ . '/' . $c_item['flag'])): ?>
-              <img src="<?= htmlspecialchars(ENVIRONMENT === 'local' ? '../' . $c_item['flag'] : $c_item['flag']) ?>" alt="" style="width:16px;height:11px;object-fit:cover;border-radius:1px;display:inline-block">
+              <img src="<?= htmlspecialchars($base_path . $c_item['flag']) ?>" alt="" style="width:16px;height:11px;object-fit:cover;border-radius:1px;display:inline-block">
             <?php endif; ?>
             <span><?= htmlspecialchars($c_item['name']) ?></span>
           </a>
